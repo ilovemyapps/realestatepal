@@ -1,0 +1,2141 @@
+{
+    "california_adu_regulations": {
+      "state_codes": {
+        "assembly_bills": {
+          "AB_68": "Land use: accessory dwelling units (2020)",
+          "AB_881": "Accessory dwelling units (2020)",
+          "AB_670": "Common interest developments: accessory dwelling units (2020)",
+          "AB_587": "Accessory dwelling units: sale or separate conveyance (2020)",
+          "AB_3182": "Housing: governing documents (2020)",
+          "AB_434": "Pre-approved ADU plans requirement (2025)",
+          "AB_976": "Permanent elimination of owner-occupancy (2024)",
+          "AB_1033": "ADU condominiumization (2024)",
+          "AB_1332": "Pre-approved plans mandate (2025)",
+          "AB_2533": "ADU height requirements (2024)"
+        },
+        "senate_bills": {
+          "SB_13": "Accessory dwelling units (2020)",
+          "SB_477": "ADU law consolidation (2024)",
+          "SB_1211": "Multiple ADUs on multifamily lots (2025)",
+          "SB_4": "Place of worship housing (2024)",
+          "SB_10": "Local ordinances: zoning for up to 10 units (2022)"
+        },
+        "government_code": {
+          "Chapter_13": "Sections 66310-66334 (consolidated ADU statutes)"
+        },
+        "building_code": {
+          "CBC_Title_24": "California Building Code",
+          "Title_24_Part_6": "Energy Efficiency Standards"
+        }
+      },
+      "los_angeles_county": {
+        "total_cities": 88,
+        "county_unincorporated": {
+          "ordinance": "Title 22, Section 22.140.640",
+          "effective_date": "2020-10-13",
+          "building_code": "Title 26",
+          "special_provisions": {
+            "fire_zones": "Prohibited in VHFHSZ without dual access"
+          },
+          "other_codes": {
+            "county_code": "Title 22 Zoning Code"
+          }
+        },
+        "cities": {
+          "los_angeles": {
+            "state_codes": ["AB_68", "AB_881", "SB_13", "AB_434"],
+            "city_codes": {
+              "Ordinance_186481": "ADU Ordinance (2019-12-19)",
+              "LAMC_12.22_A.33": "ADU Regulations",
+              "LAMC_12.03": "Zoning Code"
+            },
+            "building_codes": {
+              "LABC": "Los Angeles Building Code",
+              "LAGC": "Los Angeles Green Code"
+            },
+            "other_codes": {
+              "movable_tiny_houses": "Allowed under specific provisions",
+              "hillside_restrictions": "Prohibited in combined VHFHSZ and Hillside Areas"
+            }
+          },
+          "pasadena": {
+            "state_codes": ["AB_68", "AB_881", "SB_13"],
+            "city_codes": {
+              "Title_17": "Zoning Code",
+              "Section_17.50.275": "Accessory Dwelling Units"
+            },
+            "building_codes": {
+              "PMC_Title_14": "Building Code"
+            },
+            "other_codes": {
+              "historic_districts": "Additional review required",
+              "large_lots": "Special provisions for 10,000+ sq ft"
+            }
+          },
+          "santa_monica": {
+            "state_codes": ["AB_68", "AB_881", "AB_1033"],
+            "city_codes": {
+              "Title_9": "Planning and Zoning",
+              "Section_9.31.025": "ADU Standards",
+              "Section_9.31.026": "ADU Condominium Provisions"
+            },
+            "building_codes": {
+              "SMMC_Title_8": "Building Regulations"
+            },
+            "other_codes": {
+              "coastal_zone": "Coastal Development Permit may be required"
+            }
+          },
+          "beverly_hills": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Article_50": "ADU Regulations"
+            },
+            "building_codes": {
+              "BHMC_Title_9": "Building Code"
+            },
+            "other_codes": {
+              "third_adu": "Allowed on 13,000+ sq ft lots with affordability"
+            }
+          },
+          "glendale": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_30.34.080": "ADU Ordinance"
+            },
+            "building_codes": {
+              "GMC_Title_15": "Building and Construction"
+            },
+            "other_codes": {
+              "hcd_compliance": "Multiple reviews 2022-2024"
+            }
+          },
+          "burbank": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_23-4002": "ADU Regulations",
+              "BMC_10-1-2114": "Zoning Code"
+            },
+            "building_codes": {
+              "BMC_Title_9": "Building Regulations"
+            },
+            "other_codes": {
+              "size_limit": "Detached ADUs limited to 500 sq ft",
+              "pre_approved_plans": "BPAP Program available"
+            }
+          },
+          "west_hollywood": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_19.36.310": "ADU Regulations",
+              "Ordinance_24-37U": "Latest Update (2024-12-16)"
+            },
+            "building_codes": {
+              "WHMC_Title_17": "Building Code"
+            },
+            "other_codes": {
+              "pilot_program": "$150,000 loans with Section 8 requirement"
+            }
+          },
+          "long_beach": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Title_21": "Zoning Code",
+              "Section_21.51.275": "ADU Provisions"
+            },
+            "building_codes": {
+              "LBMC_Title_18": "Building Standards"
+            },
+            "other_codes": {
+              "pre_approved_plans": "LBPAADU Program"
+            }
+          },
+          "palmdale": {
+            "state_codes": ["AB_68", "AB_881", "AB_434"],
+            "city_codes": {
+              "PMC_Title_17": "Zoning Code"
+            },
+            "building_codes": {
+              "PMC_Title_15": "Building Code"
+            },
+            "other_codes": {
+              "standard_plans": "8 pre-approved designs available"
+            }
+          },
+          "lancaster": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Ordinance information incomplete"
+            },
+            "building_codes": {
+              "LMC_Title_15": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "pomona": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_4281": "ADU Ordinance (2020-03-16)"
+            },
+            "building_codes": {
+              "PMC_Title_18": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "torrance": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "TMC_Title_91": "Zoning Code"
+            },
+            "building_codes": {
+              "TMC_Title_15": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "inglewood": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Ordinance information incomplete"
+            },
+            "building_codes": {
+              "IMC_Title_12": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "culver_city": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "CCMC_Title_17": "Zoning Code"
+            },
+            "building_codes": {
+              "CCMC_Title_15": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "whittier": {
+            "state_codes": ["AB_68", "AB_881", "AB_434"],
+            "city_codes": {
+              "WMC_Title_18": "Zoning Code"
+            },
+            "building_codes": {
+              "WMC_Title_15": "Building Code"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Coming 2025"
+            }
+          },
+          "agoura_hills": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD February 2023"
+            },
+            "building_codes": {
+              "AHMC_Title_28": "Building Code"
+            },
+            "other_codes": {
+              "hcd_status": "Non-compliant - fire zone restrictions, height limitations"
+            }
+          },
+          "alhambra": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_4823": "ADU Ordinance",
+              "Ordinance_4831": "2024 Update",
+              "AMC_23.22.040": "ADU Standards"
+            },
+            "building_codes": {
+              "AMC_Title_16": "Building Code"
+            },
+            "other_codes": {
+              "restrictions_removed": "Previous restrictions eliminated in 2024"
+            }
+          },
+          "arcadia": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD November 2024"
+            },
+            "building_codes": {
+              "AMC_Title_8": "Building and Safety"
+            },
+            "other_codes": {
+              "hcd_violations": "15 violations - FAR restrictions, height limits, owner-occupancy"
+            }
+          },
+          "artesia": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_9-28.111": "ADU Provisions"
+            },
+            "building_codes": {
+              "AMC_Title_8": "Building Code"
+            },
+            "other_codes": {
+              "streamlined_legalization": "Pre-2018 units eligible"
+            }
+          },
+          "avalon": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD March 2023"
+            },
+            "building_codes": {
+              "AMC_Title_7": "Building Regulations"
+            },
+            "other_codes": {
+              "hcd_violations": "10 violations - water requirements, size restrictions",
+              "island_specific": "Catalina Island water constraints"
+            }
+          },
+          "azusa": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_2024-08": "Latest ADU Update"
+            },
+            "building_codes": {
+              "AMC_Title_14": "Building Code"
+            },
+            "other_codes": {
+              "status": "Most recent LA County update"
+            }
+          },
+          "baldwin_park": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_1512": "ADU Standards"
+            },
+            "building_codes": {
+              "BPMC_Title_15": "Building Code"
+            },
+            "other_codes": {
+              "follows_state": "Primarily state standards"
+            }
+          },
+          "bell": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Limited local provisions"
+            },
+            "building_codes": {
+              "BMC_Title_15": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "bell_gardens": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "BGMC_9.20.036": "ADU Regulations"
+            },
+            "building_codes": {
+              "BGMC_Title_15": "Building Code"
+            },
+            "other_codes": {
+              "calhome_loans": "Up to $75,000 low-interest loans"
+            }
+          },
+          "bellflower": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_1345": "ADU Standards"
+            },
+            "building_codes": {
+              "BMC_Title_17": "Building Code"
+            },
+            "other_codes": {
+              "height_limit": "18-foot maximum"
+            }
+          },
+          "bradbury": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "No local ordinance identified"
+            },
+            "building_codes": {
+              "BMC_Title_15": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "calabasas": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "State law with pre-approved plans"
+            },
+            "building_codes": {
+              "CMC_Title_17": "Building Code"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Program available"
+            }
+          },
+          "carson": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "ADU_Standards": "Administrative document"
+            },
+            "building_codes": {
+              "CMC_Title_4": "Building Regulations"
+            },
+            "other_codes": {
+              "ministerial_review": "Streamlined approval"
+            }
+          },
+          "cerritos": {
+            "state_codes": ["AB_68", "AB_881", "AB_1332"],
+            "city_codes": {
+              "pending": "Pre-approval program per AB 1332"
+            },
+            "building_codes": {
+              "CMC_Title_18": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "claremont": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_16.333": "ADU Requirements"
+            },
+            "building_codes": {
+              "CMC_Title_14": "Building Code"
+            },
+            "other_codes": {
+              "design_requirements": "Kitchen and architectural standards"
+            }
+          },
+          "commerce": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "ADU application form only"
+            },
+            "building_codes": {
+              "CMC_Title_5": "Building Regulations"
+            },
+            "other_codes": {}
+          },
+          "compton": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "SCAG partnership for plans"
+            },
+            "building_codes": {
+              "CMC_Title_7": "Building Code"
+            },
+            "other_codes": {
+              "free_plans": "8 conceptual plans in English/Spanish"
+            }
+          },
+          "covina": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_17.69": "ADU and JADU Standards",
+              "Ordinance_22-06": "May 2022 Update"
+            },
+            "building_codes": {
+              "CMC_Title_14": "Building Code"
+            },
+            "other_codes": {
+              "covenant_required": "Recording requirements"
+            }
+          },
+          "cudahy": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "No specific ordinance found"
+            },
+            "building_codes": {
+              "CMC_Title_8": "Building and Safety"
+            },
+            "other_codes": {}
+          },
+          "diamond_bar": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Development_Code_22.42.120": "ADU Standards"
+            },
+            "building_codes": {
+              "DBMC_Title_22": "Building Code"
+            },
+            "other_codes": {
+              "size_by_bedroom": "Limits based on bedroom count"
+            }
+          },
+          "downey": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Article_IX": "ADU Regulations"
+            },
+            "building_codes": {
+              "DMC_Title_4": "Building Standards"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Standard plan program"
+            }
+          },
+          "duarte": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Operating under state law"
+            },
+            "building_codes": {
+              "DMC_Title_19": "Development Code"
+            },
+            "other_codes": {}
+          },
+          "el_monte": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD June 2022"
+            },
+            "building_codes": {
+              "EMMC_Title_17": "Zoning"
+            },
+            "other_codes": {
+              "hcd_violations": "Bedroom restrictions, design requirements"
+            }
+          },
+          "el_segundo": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_15-4E-3": "ADU Standards",
+              "Section_15-4F-2": "JADU Standards"
+            },
+            "building_codes": {
+              "ESMC_Title_15": "Buildings and Construction"
+            },
+            "other_codes": {
+              "padu_program": "Pre-Approved Dwelling Unit program"
+            }
+          },
+          "gardena": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_18.13": "ADU and JADU Standards",
+              "Ordinance_1856": "2023 Update"
+            },
+            "building_codes": {
+              "GMC_Title_18": "Zoning"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Available"
+            }
+          },
+          "glendora": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_2015": "ADU Ordinance",
+              "2024_Update": "Latest revision"
+            },
+            "building_codes": {
+              "GMC_Title_21": "Zoning"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Available"
+            }
+          },
+          "hawaiian_gardens": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_18.90.080": "ADU Standards"
+            },
+            "building_codes": {
+              "HGMC_Title_18": "Zoning"
+            },
+            "other_codes": {
+              "size_limit": "1,000 sq ft maximum"
+            }
+          },
+          "hawthorne": {
+            "state_codes": ["AB_68", "AB_881", "AB_1332"],
+            "city_codes": {
+              "Chapter_17.21": "ADU Regulations"
+            },
+            "building_codes": {
+              "HMC_Title_15": "Building Code"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Required under AB 1332"
+            }
+          },
+          "hermosa_beach": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_20-1418": "ADU Update (2020)"
+            },
+            "building_codes": {
+              "HBMC_Title_14": "Buildings"
+            },
+            "other_codes": {
+              "size_limit": "640 sq ft maximum",
+              "lot_minimum": "4,000 sq ft required"
+            }
+          },
+          "hidden_hills": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Pre-approved program launching January 2025"
+            },
+            "building_codes": {
+              "HHMC_Title_16": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "huntington_park": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "No local ordinance found"
+            },
+            "building_codes": {
+              "HPMC_Title_9": "Building Regulations"
+            },
+            "other_codes": {}
+          },
+          "industry": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Industrial focus, follows state law"
+            },
+            "building_codes": {
+              "IMC_Title_17": "Development Code"
+            },
+            "other_codes": {}
+          },
+          "irwindale": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Zoning code update in progress"
+            },
+            "building_codes": {
+              "IMC_Title_14": "Buildings"
+            },
+            "other_codes": {}
+          },
+          "la_canada_flintridge": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_519": "ADU Ordinance (February 2024)"
+            },
+            "building_codes": {
+              "LCFMC_Title_15": "Buildings and Construction"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Available"
+            }
+          },
+          "la_habra_heights": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_2023-01": "ADU Update (March 2023)"
+            },
+            "building_codes": {
+              "LHHMC_Title_15": "Building Code"
+            },
+            "other_codes": {
+              "fire_requirements": "Special hazard zone provisions"
+            }
+          },
+          "la_mirada": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_705": "ADU Standards",
+              "Section_21.54.020": "Development Standards"
+            },
+            "building_codes": {
+              "LMMC_Title_21": "Zoning"
+            },
+            "other_codes": {
+              "size_limit": "800 sq ft maximum",
+              "jadu_prohibited": "JADUs not allowed"
+            }
+          },
+          "la_puente": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_18-951": "ADU Ordinance",
+              "Section_10.10.080": "ADU Standards"
+            },
+            "building_codes": {
+              "LPMC_Title_16": "Buildings"
+            },
+            "other_codes": {
+              "size_limit": "800 sq ft maximum",
+              "owner_occupancy": "Required"
+            }
+          },
+          "la_verne": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_18.120": "ADU and JADU Standards"
+            },
+            "building_codes": {
+              "LVMC_Title_15": "Buildings"
+            },
+            "other_codes": {
+              "size_by_lot": "Limits based on lot size"
+            }
+          },
+          "lakewood": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_2023-1": "Comprehensive ADU regulations (12 pages)"
+            },
+            "building_codes": {
+              "LMC_Title_17": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "lawndale": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Title_17": "Zoning",
+              "Chapter_17.48": "ADU Standards",
+              "Section_17.48.056": "Specific Requirements"
+            },
+            "building_codes": {
+              "LMC_Title_14": "Buildings"
+            },
+            "other_codes": {
+              "height_allowance": "18-foot maximum"
+            }
+          },
+          "lomita": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_854": "ADU Update (July 2023)"
+            },
+            "building_codes": {
+              "LMC_Title_17": "Zoning"
+            },
+            "other_codes": {
+              "short_term_rental": "Prohibited under 30 days"
+            }
+          },
+          "lynwood": {
+            "state_codes": ["AB_68", "AB_881", "SB_9"],
+            "city_codes": {
+              "pending": "References SB 9, follows state updates"
+            },
+            "building_codes": {
+              "LMC_Title_10": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "malibu": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD November 2024"
+            },
+            "building_codes": {
+              "MMC_Title_15": "Buildings"
+            },
+            "other_codes": {
+              "hcd_violations": "Coastal zone issues, fire requirements"
+            }
+          },
+          "manhattan_beach": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_25-0004": "ADU Update (April 2025)"
+            },
+            "building_codes": {
+              "MBMC_Title_10": "Zoning"
+            },
+            "other_codes": {
+              "coastal_distinctions": "Different rules for coastal zones"
+            }
+          },
+          "maywood": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "No local ordinance located"
+            },
+            "building_codes": {
+              "MMC_Title_8": "Buildings and Safety"
+            },
+            "other_codes": {}
+          },
+          "monrovia": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_17.44.005": "ADU and JADU Standards",
+              "2025_Update": "February 2025 revision"
+            },
+            "building_codes": {
+              "MMC_Title_15": "Buildings"
+            },
+            "other_codes": {
+              "two_track_system": "Building permit only vs planning review"
+            }
+          },
+          "montebello": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Limited local requirements"
+            },
+            "building_codes": {
+              "MMC_Title_17": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "monterey_park": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Title_21": "Zoning",
+              "Chapter_21.44": "ADU Standards"
+            },
+            "building_codes": {
+              "MPMC_Title_14": "Buildings"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Program launched Fall 2024"
+            }
+          },
+          "norwalk": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_17.03.040": "ADU Provisions"
+            },
+            "building_codes": {
+              "NMC_Title_18": "Buildings"
+            },
+            "other_codes": {
+              "size_limit": "720 sq ft or 50% of primary dwelling",
+              "guidebook": "Comprehensive ADU guide available"
+            }
+          },
+          "palos_verdes_estates": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD April 2024"
+            },
+            "building_codes": {
+              "PVEMC_Title_18": "Zoning"
+            },
+            "other_codes": {
+              "hcd_violations": "15 violations - owner-occupancy, design standards"
+            }
+          },
+          "paramount": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "State compliance with guidance videos"
+            },
+            "building_codes": {
+              "PMC_Title_16": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "pico_rivera": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Pre-approved plans, zoning update since 2022"
+            },
+            "building_codes": {
+              "PRMC_Title_18": "Zoning"
+            },
+            "other_codes": {
+              "pre_approved_plans": "Available"
+            }
+          },
+          "rancho_palos_verdes": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_681": "ADU Update (June 2024)"
+            },
+            "building_codes": {
+              "RPVMC_Title_17": "Zoning"
+            },
+            "other_codes": {
+              "housing_element": "Implementation ordinance"
+            }
+          },
+          "redondo_beach": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_3264-23": "ADU Update (November 2023)"
+            },
+            "building_codes": {
+              "RBMC_Title_10": "Planning and Zoning"
+            },
+            "other_codes": {
+              "streamlined_process": "Ministerial approval"
+            }
+          },
+          "rolling_hills": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "State law only"
+            },
+            "building_codes": {
+              "RHMC_Title_17": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "rolling_hills_estates": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "State law with administrative procedures"
+            },
+            "building_codes": {
+              "RHEMC_Title_17": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "rosemead": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_995": "ADU Ordinance (September 2020)"
+            },
+            "building_codes": {
+              "RMC_Title_17": "Zoning"
+            },
+            "other_codes": {
+              "standard_plans": "Program available"
+            }
+          },
+          "san_dimas": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD January 2024"
+            },
+            "building_codes": {
+              "SDMC_Title_18": "Development Code"
+            },
+            "other_codes": {
+              "hcd_violations": "15+ violations - minimum size conflicts, garage conversions"
+            }
+          },
+          "san_fernando": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "No specific ordinance found"
+            },
+            "building_codes": {
+              "SFMC_Title_106": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "san_gabriel": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_153.047": "ADU and JADU Standards",
+              "Ordinance_706": "May 2024 Update"
+            },
+            "building_codes": {
+              "SGMC_Title_15": "Buildings and Construction"
+            },
+            "other_codes": {
+              "architectural_requirements": "Extensive design standards"
+            }
+          },
+          "san_marino": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_23.02.25": "ADU Standards",
+              "Ordinance_O-24-1416": "November 2024 Update"
+            },
+            "building_codes": {
+              "SMMC_Title_15": "Buildings and Construction"
+            },
+            "other_codes": {
+              "hcd_compliance": "Addressing violations from August 2024"
+            }
+          },
+          "santa_clarita": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD March 2023"
+            },
+            "building_codes": {
+              "SCMC_Title_17": "Zoning"
+            },
+            "other_codes": {
+              "hcd_violations": "12+ violations - parking exemptions, height limits"
+            }
+          },
+          "santa_fe_springs": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Title_155": "Zoning"
+            },
+            "building_codes": {
+              "SFSMC_Title_150": "Building Regulations"
+            },
+            "other_codes": {
+              "grant_program": "$40,000 for pre-development costs"
+            }
+          },
+          "sierra_madre": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_1465": "Codification in progress"
+            },
+            "building_codes": {
+              "SMMC_Title_15": "Buildings and Construction"
+            },
+            "other_codes": {}
+          },
+          "signal_hill": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Operating under state law"
+            },
+            "building_codes": {
+              "SHMC_Title_20": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "south_el_monte": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD June 2022"
+            },
+            "building_codes": {
+              "SEMMC_Title_17": "Zoning"
+            },
+            "other_codes": {
+              "hcd_violations": "JADU restrictions, multifamily definition"
+            }
+          },
+          "south_gate": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_11.43": "ADU Standards (January 2021)"
+            },
+            "building_codes": {
+              "SGMC_Title_8": "Buildings"
+            },
+            "other_codes": {
+              "design_integration": "Required with primary dwelling"
+            }
+          },
+          "south_pasadena": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_2356": "ADU Update (May 2021)"
+            },
+            "building_codes": {
+              "SPMC_Title_36": "Zoning"
+            },
+            "other_codes": {
+              "two_story": "Allowed"
+            }
+          },
+          "temple_city": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_9-1T-13": "ADU Standards"
+            },
+            "building_codes": {
+              "TCMC_Title_15": "Buildings"
+            },
+            "other_codes": {
+              "design_requirements": "Most restrictive standards"
+            }
+          },
+          "vernon": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Industrial city, minimal residential"
+            },
+            "building_codes": {
+              "VMC_Title_24": "Zoning"
+            },
+            "other_codes": {
+              "industrial_focus": "Primarily industrial zoning"
+            }
+          },
+          "walnut": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_20-03": "ADU Ordinance"
+            },
+            "building_codes": {
+              "WMC_Title_25": "Zoning"
+            },
+            "other_codes": {
+              "adu_handbook": "2021 comprehensive guide"
+            }
+          },
+          "west_covina": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Compliance issues per HCD February 2022"
+            },
+            "building_codes": {
+              "WCMC_Title_26": "Zoning"
+            },
+            "other_codes": {
+              "hcd_violations": "Setback requirements, siting restrictions"
+            }
+          },
+          "westlake_village": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_9.14.070": "ADU Standards"
+            },
+            "building_codes": {
+              "WVMC_Title_17": "Development Code"
+            },
+            "other_codes": {
+              "pre_approved_plans": "LA County plans accepted"
+            }
+          }
+        }
+      },
+      "orange_county": {
+        "total_cities": 34,
+        "county_unincorporated": {
+          "ordinance": "Section 7-9-90",
+          "effective_date": "2024-07-25",
+          "building_code": "Title 7",
+          "special_provisions": {
+            "max_size": "1,200 sq ft",
+            "height_limit": "16 ft (18 ft near transit)"
+          },
+          "other_codes": {}
+        },
+        "cities": {
+          "anaheim": {
+            "state_codes": ["AB_68", "AB_881", "SB_1211"],
+            "city_codes": {
+              "Section_18.38.015": "ADU Regulations",
+              "Ordinance_6601": "Latest Amendment (2025-01-14)"
+            },
+            "building_codes": {
+              "AMC_Title_17": "Building Code"
+            },
+            "other_codes": {
+              "multifamily_adus": "Up to 8 detached ADUs allowed"
+            }
+          },
+          "irvine": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_3-26": "ADU Provisions"
+            },
+            "building_codes": {
+              "IMC_Title_4": "Building Standards"
+            },
+            "other_codes": {
+              "verification_form": "Required for ministerial review"
+            }
+          },
+          "santa_ana": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "SAMC_Title_41": "Zoning Code"
+            },
+            "building_codes": {
+              "SAMC_Title_8": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "huntington_beach": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "HBZC_Title_23": "Zoning Code"
+            },
+            "building_codes": {
+              "HBMC_Title_17": "Building Code"
+            },
+            "other_codes": {
+              "coastal_zone": "CDP may be required",
+              "pre_approved": "490 sq ft plan available"
+            }
+          },
+          "newport_beach": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_2023-2": "Safe ADU Program (2023-03-16)",
+              "NBMC_Title_20": "Planning and Zoning"
+            },
+            "building_codes": {
+              "NBMC_Title_15": "Building Code"
+            },
+            "other_codes": {
+              "fee_waivers": "Available through 2024",
+              "unpermitted_units": "Amnesty program active"
+            }
+          },
+          "laguna_beach": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_25.17": "ADU Ordinance",
+              "Urgency_Ordinance": "2025-03-11"
+            },
+            "building_codes": {
+              "LBMC_Title_14": "Building Code"
+            },
+            "other_codes": {
+              "coastal_zone": "LCP certification required"
+            }
+          },
+          "mission_viejo": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "MVMC_Title_9": "Development Code"
+            },
+            "building_codes": {
+              "MVMC_Title_14": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "tustin": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_1517": "ADU Ordinance (2021-12)"
+            },
+            "building_codes": {
+              "TMC_Title_9": "Building Code"
+            },
+            "other_codes": {
+              "min_size": "220 sq ft minimum"
+            }
+          },
+          "fullerton": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "FMC_Title_15": "Zoning Code"
+            },
+            "building_codes": {
+              "FMC_Title_14": "Building Code"
+            },
+            "other_codes": {}
+          },
+          "garden_grove": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "GGMC_Title_9": "Land Use"
+            },
+            "building_codes": {
+              "GGMC_Title_15": "Building Regulations"
+            },
+            "other_codes": {}
+          },
+          "aliso_viejo": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD June 2024"
+            },
+            "building_codes": {
+              "AVMC_Title_18": "Development Code"
+            },
+            "other_codes": {
+              "hcd_violations": "20 violations - owner-occupancy, design standards"
+            }
+          },
+          "brea": {
+            "state_codes": ["AB_68", "AB_881", "SB_9"],
+            "city_codes": {
+              "Ordinance_1203": "ADU and SB 9 Standards"
+            },
+            "building_codes": {
+              "BMC_Title_20": "Zoning"
+            },
+            "other_codes": {
+              "sb9_included": "Two-unit developments allowed"
+            }
+          },
+          "buena_park": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_19.348": "ADU Standards",
+              "Section_19.348.010": "Specific Requirements"
+            },
+            "building_codes": {
+              "BPMC_Title_19": "Zoning"
+            },
+            "other_codes": {
+              "park_fees": "Required for 750+ sq ft ADUs"
+            }
+          },
+          "costa_mesa": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD September 2024"
+            },
+            "building_codes": {
+              "CMMC_Title_13": "Planning, Zoning and Development"
+            },
+            "other_codes": {
+              "hcd_violations": "21 violations - ADU combinations, architectural standards"
+            }
+          },
+          "cypress": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_3.17.200": "ADU Standards"
+            },
+            "building_codes": {
+              "CMC_Title_16": "Buildings and Safety"
+            },
+            "other_codes": {
+              "deed_restriction": "Recording required"
+            }
+          },
+          "dana_point": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_25-04": "ADU Update (July 2023)"
+            },
+            "building_codes": {
+              "DPMC_Title_9": "Zoning"
+            },
+            "other_codes": {
+              "coastal_restrictions": "Parking requirements in coastal zone",
+              "hcd_violations": "Non-compliant per HCD January 2023"
+            }
+          },
+          "fountain_valley": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Standards_2020": "Adopted March 2020"
+            },
+            "building_codes": {
+              "FVMC_Title_21": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "la_habra": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_1835": "ADU Standards (June 2021)",
+              "Chapter_18.64": "Development Standards"
+            },
+            "building_codes": {
+              "LHMC_Title_18": "Zoning"
+            },
+            "other_codes": {
+              "fire_requirements": "Special hazard zone provisions"
+            }
+          },
+          "la_palma": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "No comprehensive ordinance found"
+            },
+            "building_codes": {
+              "LPMC_Title_44": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "laguna_hills": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_9-68": "ADU Standards"
+            },
+            "building_codes": {
+              "LHMC_Title_6": "Buildings"
+            },
+            "other_codes": {
+              "separation": "10-foot minimum between structures"
+            }
+          },
+          "laguna_niguel": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD November 2022"
+            },
+            "building_codes": {
+              "LNMC_Title_9": "Zoning"
+            },
+            "other_codes": {
+              "hcd_violations": "Mixed-use exclusions, parking requirements",
+              "pre_approved_program": "Available"
+            }
+          },
+          "laguna_woods": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Limited information, age-restricted community"
+            },
+            "building_codes": {
+              "LWMC_Title_13": "Zoning"
+            },
+            "other_codes": {
+              "age_restricted": "55+ community considerations"
+            }
+          },
+          "lake_forest": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_355": "ADU Update (August 2022)"
+            },
+            "building_codes": {
+              "LFMC_Title_9": "Development Code"
+            },
+            "other_codes": {
+              "lot_minimum": "4,000 sq ft required",
+              "hcd_violations": "Non-compliant per HCD October 2022"
+            }
+          },
+          "los_alamitos": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "2020_Update": "State compliance revision"
+            },
+            "building_codes": {
+              "LAMC_Title_25": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "orange": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD October 2022"
+            },
+            "building_codes": {
+              "OMC_Title_17": "Zoning"
+            },
+            "other_codes": {
+              "hcd_violations": "JADU kitchen requirements, bedroom restrictions"
+            }
+          },
+          "placentia": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Chapter_23.73": "ADU Standards"
+            },
+            "building_codes": {
+              "PMC_Title_23": "Zoning"
+            },
+            "other_codes": {
+              "pre_reviewed": "Program available"
+            }
+          },
+          "rancho_santa_margarita": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD August 2022"
+            },
+            "building_codes": {
+              "RSMMC_Title_9": "Development Code"
+            },
+            "other_codes": {
+              "hcd_violations": "Minimum size conflicts"
+            }
+          },
+          "san_clemente": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Development_Standards": "Planning pre-approval required"
+            },
+            "building_codes": {
+              "SCMC_Title_17": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "san_juan_capistrano": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD November 2023"
+            },
+            "building_codes": {
+              "SJCMC_Title_9": "Development Code"
+            },
+            "other_codes": {
+              "hcd_violations": "JADU standards, zoning review"
+            }
+          },
+          "seal_beach": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Section_11.4.05.115": "ADU Standards"
+            },
+            "building_codes": {
+              "SBMC_Title_11": "Zoning"
+            },
+            "other_codes": {
+              "coastal_review": "CDP required in coastal zone"
+            }
+          },
+          "stanton": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_1108": "Referenced"
+            },
+            "building_codes": {
+              "SMC_Title_20": "Zoning"
+            },
+            "other_codes": {
+              "follows_hcd": "State guidelines"
+            }
+          },
+          "villa_park": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Code reference exists, content not accessible"
+            },
+            "building_codes": {
+              "VPMC_Title_17": "Zoning"
+            },
+            "other_codes": {}
+          },
+          "westminster": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "pending": "Non-compliant per HCD March 2023"
+            },
+            "building_codes": {
+              "WMC_Title_17": "Land Use and Development"
+            },
+            "other_codes": {
+              "hcd_violations": "Zoning restrictions, height limits"
+            }
+          },
+          "yorba_linda": {
+            "state_codes": ["AB_68", "AB_881"],
+            "city_codes": {
+              "Ordinance_2023-1106": "Comprehensive ADU Update",
+              "Section_18.20.850": "Standards and criteria"
+            },
+            "building_codes": {
+              "YLMC_Title_18": "Zoning"
+            },
+            "other_codes": {
+              "housing_trust": "OC Housing Finance Trust ADU loans",
+              "detailed_regulations": "Most comprehensive OC standards"
+            }
+          }
+        }
+      },
+      "santa_clara_county": {
+      "total_cities": 15,
+      "county_unincorporated": {
+        "ordinance": "Ordinance NS-1200.371",
+        "effective_date": "2020-03-10",
+        "building_code": "County Building Code",
+        "special_provisions": {
+          "pre_approved_plans": "800 and 1,200 sq ft designs",
+          "exclusions": "WUI and geologic hazard zones"
+        },
+        "other_codes": {
+          "planning_collaborative": "aduscc.org resources"
+        }
+      },
+      "cities": {
+        "san_jose": {
+          "state_codes": ["AB_68", "AB_881", "AB_1033"],
+          "city_codes": {
+            "Title_20": "Zoning Ordinance",
+            "Section_20.30": "ADU Provisions",
+            "PP23-007": "2024 Update"
+          },
+          "building_codes": {
+            "SJMC_Title_24": "Building Code"
+          },
+          "other_codes": {
+            "condominium_conversion": "AB-1033 implemented",
+            "pre_approved_plans": "Available"
+          }
+        },
+        "mountain_view": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "MVCC_Article_VII": "ADU Regulations"
+          },
+          "building_codes": {
+            "MVCC_Chapter_8": "Building Code"
+          },
+          "other_codes": {
+            "accelerator_program": "ADU assistance available"
+          }
+        },
+        "palo_alto": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Title_18": "Zoning",
+            "Chapter_18.09": "ADU Provisions",
+            "Ordinance_5507": "Initial ADU Ordinance",
+            "Ordinance_5574": "HCD Compliance Update",
+            "Ordinance_5585": "Latest Revision"
+          },
+          "building_codes": {
+            "PAMC_Title_16": "Building Regulations"
+          },
+          "other_codes": {
+            "hcd_compliance": "Multiple revisions 2020-2023"
+          }
+        },
+        "sunnyvale": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Chapter_19.79": "ADU Regulations",
+            "Ordinance_3240-25": "Latest Update (2025-04-08)"
+          },
+          "building_codes": {
+            "SMC_Title_16": "Building Code"
+          },
+          "other_codes": {
+            "streamlined_vs_standard": "Two-track system"
+          }
+        },
+        "santa_clara": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "SCCC_Title_18": "Zoning"
+          },
+          "building_codes": {
+            "SCCC_Title_15": "Building Code"
+          },
+          "other_codes": {
+            "pre_approved_plans": "Available"
+          }
+        },
+        "cupertino": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Ordinance_20-2154": "ADU Ordinance (2020-04-02)"
+          },
+          "building_codes": {
+            "CMC_Title_16": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "campbell": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "CMC_Title_21": "Zoning Code"
+          },
+          "building_codes": {
+            "CMC_Title_15": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "los_gatos": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Town_Code_Chapter_29": "Zoning"
+          },
+          "building_codes": {
+            "Town_Code_Chapter_14": "Building"
+          },
+          "other_codes": {
+            "pre_approved_plans": "Available"
+          }
+        },
+        "saratoga": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "SMC_Title_15": "Zoning Code"
+          },
+          "building_codes": {
+            "SMC_Title_14": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "milpitas": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Ordinance_300": "ADU Update (2020-07-13)"
+          },
+          "building_codes": {
+            "MMC_Title_X": "Zoning"
+          },
+          "other_codes": {}
+        },
+        "morgan_hill": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "MHMC_Title_18": "Zoning"
+          },
+          "building_codes": {
+            "MHMC_Title_15": "Building Code"
+          },
+          "other_codes": {
+            "pre_approved_plans": "Available"
+          }
+        },
+        "gilroy": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "GCC_Title_30": "Zoning"
+          },
+          "building_codes": {
+            "GCC_Title_25": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "los_altos": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "LAMC_Title_14": "Zoning"
+          },
+          "building_codes": {
+            "LAMC_Title_12": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "los_altos_hills": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Town_Code_Title_10": "Zoning"
+          },
+          "building_codes": {
+            "Town_Code_Title_9": "Building"
+          },
+          "other_codes": {
+            "special_setback": "40-foot front setback required"
+          }
+        },
+        "monte_sereno": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "MSMC_Title_10": "Zoning"
+          },
+          "building_codes": {
+            "MSMC_Title_8": "Building Code"
+          },
+          "other_codes": {}
+        }
+      }
+    },
+    "san_mateo_county": {
+      "total_cities": 20,
+      "county_unincorporated": {
+        "ordinance": "Chapter 22.5",
+        "effective_date": "2017-01-10",
+        "building_code": "Title 23",
+        "special_provisions": {
+          "size_limit": "750 sq ft or 35% of primary"
+        },
+        "other_codes": {
+          "resource_center": "secondunitcentersmc.org"
+        }
+      },
+      "cities": {
+        "redwood_city": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "RWC_Title_27": "Zoning Ordinance"
+          },
+          "building_codes": {
+            "RWC_Title_7": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "daly_city": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "DCMC_Title_17": "Zoning"
+          },
+          "building_codes": {
+            "DCMC_Title_15": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "san_mateo": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "SMMC_Title_27": "Zoning"
+          },
+          "building_codes": {
+            "SMMC_Title_23": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "south_san_francisco": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "SSFMC_Title_20": "Zoning"
+          },
+          "building_codes": {
+            "SSFMC_Title_15": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "san_bruno": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "SBMC_Title_12": "Land Use"
+          },
+          "building_codes": {
+            "SBMC_Title_7": "Building Regulations"
+          },
+          "other_codes": {}
+        },
+        "pacifica": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "PMC_Title_9": "Planning and Zoning"
+          },
+          "building_codes": {
+            "PMC_Title_7": "Building Regulations"
+          },
+          "other_codes": {
+            "coastal_zone": "CDP may be required"
+          }
+        },
+        "menlo_park": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "MPMC_Title_16": "Zoning"
+          },
+          "building_codes": {
+            "MPMC_Title_12": "Buildings and Construction"
+          },
+          "other_codes": {}
+        },
+        "burlingame": {
+          "state_codes": ["AB_68", "AB_881", "SB_1211", "AB_2533"],
+          "city_codes": {
+            "Ordinance_2035": "Latest Update (2024-12-16)",
+            "BMC_Title_25": "Zoning"
+          },
+          "building_codes": {
+            "BMC_Title_24": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "foster_city": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "FCMC_Title_17": "Zoning"
+          },
+          "building_codes": {
+            "FCMC_Title_15": "Buildings and Construction"
+          },
+          "other_codes": {}
+        },
+        "san_carlos": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Ordinance_1604": "ADU Standards (2023-11-13)",
+            "SCMC_Title_18": "Zoning"
+          },
+          "building_codes": {
+            "SCMC_Title_15": "Buildings"
+          },
+          "other_codes": {
+            "design_standards": "Objective standards added"
+          }
+        },
+        "belmont": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Ordinance_2020-1150": "Ministerial Standards"
+          },
+          "building_codes": {
+            "BMC_Title_17": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "millbrae": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "MMC_Title_10": "Zoning"
+          },
+          "building_codes": {
+            "MMC_Title_8": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "half_moon_bay": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Section_18.33": "ADU Regulations"
+          },
+          "building_codes": {
+            "HMBMC_Title_14": "Buildings"
+          },
+          "other_codes": {
+            "coastal_commission": "CCC compliance required"
+          }
+        },
+        "east_palo_alto": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "EPAMC_Title_18": "Zoning"
+          },
+          "building_codes": {
+            "EPAMC_Title_15": "Buildings"
+          },
+          "other_codes": {}
+        },
+        "atherton": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "pending": "Operating under state law"
+          },
+          "building_codes": {
+            "AMC_Title_15": "Building Code"
+          },
+          "other_codes": {
+            "status": "Previous ordinance preempted"
+          }
+        },
+        "woodside": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "pending": "Operating under state law"
+          },
+          "building_codes": {
+            "WMC_Title_15": "Building Code"
+          },
+          "other_codes": {
+            "status": "Previous ordinance preempted"
+          }
+        },
+        "hillsborough": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "pending": "Operating under state law"
+          },
+          "building_codes": {
+            "HMC_Title_15": "Building Code"
+          },
+          "other_codes": {
+            "status": "Previous ordinance preempted"
+          }
+        },
+        "colma": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "pending": "Operating under state law"
+          },
+          "building_codes": {
+            "CMC_Title_5": "Building Regulations"
+          },
+          "other_codes": {
+            "status": "Previous ordinance preempted"
+          }
+        },
+        "brisbane": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "pending": "Operating under state law"
+          },
+          "building_codes": {
+            "BMC_Title_15": "Buildings and Construction"
+          },
+          "other_codes": {
+            "status": "Previous ordinance preempted"
+          }
+        },
+        "portola_valley": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "pending": "Operating under state law"
+          },
+          "building_codes": {
+            "PVMC_Title_15": "Building Regulations"
+          },
+          "other_codes": {
+            "status": "Previous ordinance preempted"
+          }
+        }
+      }
+    },
+    "alameda_county": {
+      "total_cities": 14,
+      "county_unincorporated": {
+        "ordinance": "County ADU Ordinance",
+        "effective_date": "2020",
+        "building_code": "County Building Code",
+        "special_provisions": {
+          "program": "HelloADU.org assistance"
+        },
+        "other_codes": {
+          "areas": "Castro Valley, San Lorenzo, etc."
+        }
+      },
+      "cities": {
+        "oakland": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Chapter_17.88": "ADU Regulations",
+            "Ordinance_13667": "Latest Update (2022-01-18)"
+          },
+          "building_codes": {
+            "OMC_Title_15": "Building Code"
+          },
+          "other_codes": {
+            "fire_zone": "S-9 Fire Safety Zone restrictions",
+            "pre_approved_plans": "Available"
+          }
+        },
+        "fremont": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Ordinance_06-2023": "ADU Update (2023-07-11)",
+            "FMC_Title_18": "Planning"
+          },
+          "building_codes": {
+            "FMC_Title_15": "Building Code"
+          },
+          "other_codes": {
+            "setback": "15-foot rear setback required",
+            "pre_approved_plans": "7-day review"
+          }
+        },
+        "hayward": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "HMC_Article_11": "ADU Provisions"
+          },
+          "building_codes": {
+            "HMC_Title_11": "Building Regulations"
+          },
+          "other_codes": {}
+        },
+        "berkeley": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "BMC_Chapter_23.306": "ADU Ordinance",
+            "Ordinance_7888-NS": "Latest Update (2023-11-09)"
+          },
+          "building_codes": {
+            "BMC_Title_19": "Building Code"
+          },
+          "other_codes": {
+            "natural_gas": "Prohibited in detached ADUs",
+            "street_width": "26-foot minimum required"
+          }
+        },
+        "san_leandro": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "SLMC_Title_2": "Zoning Code"
+          },
+          "building_codes": {
+            "SLMC_Title_7": "Building Regulations"
+          },
+          "other_codes": {}
+        },
+        "livermore": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "LDC": "Livermore Development Code"
+          },
+          "building_codes": {
+            "LMC_Title_15": "Buildings and Construction"
+          },
+          "other_codes": {
+            "pre_approved_plans": "Available"
+          }
+        },
+        "pleasanton": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Chapter_18.106": "ADU Regulations",
+            "PMC_Title_18": "Planning Code"
+          },
+          "building_codes": {
+            "PMC_Title_20": "Buildings"
+          },
+          "other_codes": {
+            "rebates": "Up to $15,000 for deed-restricted units"
+          }
+        },
+        "alameda": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Ordinance_3298": "ADU Ordinance (2020-06-03)",
+            "AMC_Title_30": "Zoning"
+          },
+          "building_codes": {
+            "AMC_Title_13": "Building Code"
+          },
+          "other_codes": {}
+        },
+        "union_city": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Ordinance_2025-002": "Latest Update (2025-03-25)",
+            "UCMC_Title_18": "Development Code"
+          },
+          "building_codes": {
+            "UCMC_Title_15": "Buildings"
+          },
+          "other_codes": {
+            "transit_bonus": "20-foot heights near transit"
+          }
+        },
+        "dublin": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "DMC_Chapter_8.104": "ADU Standards"
+          },
+          "building_codes": {
+            "DMC_Title_7": "Building Regulations"
+          },
+          "other_codes": {
+            "pre_approved_plans": "8 designs (224-909 sq ft)"
+          }
+        },
+        "newark": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "NMC_Title_17": "Zoning"
+          },
+          "building_codes": {
+            "NMC_Title_15": "Buildings and Construction"
+          },
+          "other_codes": {}
+        },
+        "emeryville": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Ordinance_20-027": "ADU Update (2020-12-15)",
+            "EMC_Title_9": "Planning Regulations"
+          },
+          "building_codes": {
+            "EMC_Title_8": "Building Regulations"
+          },
+          "other_codes": {}
+        },
+        "albany": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "AMC_Title_20": "Zoning"
+          },
+          "building_codes": {
+            "AMC_Title_16": "Buildings"
+          },
+          "other_codes": {}
+        },
+        "piedmont": {
+          "state_codes": ["AB_68", "AB_881"],
+          "city_codes": {
+            "Chapter_17": "Planning and Land Use"
+          },
+          "building_codes": {
+            "City_Code_Title_5": "Building Code"
+          },
+          "other_codes": {
+            "unpermitted_units": "Legalization program available"
+          }
+        }
+      }
+    },
+    "san_francisco": {
+      "consolidated_city_county": true,
+      "state_codes": ["AB_68", "AB_881", "SB_13", "AB_1033"],
+      "city_codes": {
+        "Planning_Code_207": "State ADU Program",
+        "Planning_Code_207.1": "Local ADU Program",
+        "Planning_Code_207.2": "ADU Controls",
+        "Planning_Code_207.3": "Requirements",
+        "Ordinance_162-16": "Original ADU Program (2016-09)",
+        "Ordinance_95-17": "First Amendment",
+        "Ordinance_162-17": "Second Amendment",
+        "Ordinance_195-18": "Third Amendment",
+        "Ordinance_116-19": "Fourth Amendment",
+        "Ordinance_208-21": "Fifth Amendment",
+        "Ordinance_248-23": "Lot Size Reduction (2023-12-14)"
+      },
+      "building_codes": {
+        "SFBC": "San Francisco Building Code",
+        "SFBC_Chapter_34B": "Seismic Retrofit",
+        "AB-094": "Voluntary Retrofit Bulletin"
+      },
+      "other_codes": {
+        "unlimited_adus": "Buildings with seismic retrofit",
+        "rent_control": "Costa-Hawkins agreements apply",
+        "historic_review": "Article 10/11 notification required",
+        "pre_approved_fee": "$1,519 for 25-foot lot designs",
+        "eviction_restrictions": "5-year OMI, 10-year no-fault prohibition",
+        "dwelling_unit_mix": "Specific requirements by zoning district"
+      }
+    }
+  }
+}

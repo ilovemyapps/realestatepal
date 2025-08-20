@@ -1,2 +1,3 @@
-# realestatepal
-real estate pal
+
+
+Initial repository setup
