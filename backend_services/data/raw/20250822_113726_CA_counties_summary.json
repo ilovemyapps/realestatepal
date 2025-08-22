@@ -1,0 +1,73 @@
+{
+  "fetch_time": "20250822_113726",
+  "total_locations": 8,
+  "search_parameters": {
+    "property_type": "single_family",
+    "beds_min": 2,
+    "price_min": 700000,
+    "price_max": 7000000,
+    "days_on": 90,
+    "sort": "relevance"
+  },
+  "location_results": {
+    "Los Angeles County, CA": {
+      "fetched_count": 5000,
+      "total_results": 10243,
+      "batch_count": 26,
+      "saved_file": "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_113940_los_angeles_county_ca_los_angeles_county.json"
+    },
+    "Orange County, CA": {
+      "fetched_count": 3298,
+      "total_results": 3298,
+      "batch_count": 17,
+      "saved_file": "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114021_orange_county_ca_orange_county.json"
+    },
+    "San Francisco County, CA": {
+      "fetched_count": 370,
+      "total_results": 370,
+      "batch_count": 2,
+      "saved_file": "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114033_san_francisco_county_ca_san_francisco_county.json"
+    },
+    "Alameda County, CA": {
+      "fetched_count": 1841,
+      "total_results": 1841,
+      "batch_count": 10,
+      "saved_file": "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114052_alameda_county_ca_alameda_county.json"
+    },
+    "San Mateo County, CA": {
+      "fetched_count": 600,
+      "total_results": 758,
+      "batch_count": 4,
+      "saved_file": "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114101_san_mateo_county_ca_san_mateo_county.json"
+    },
+    "Santa Clara County, CA": {
+      "fetched_count": 1366,
+      "total_results": 1366,
+      "batch_count": 7,
+      "saved_file": "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114114_santa_clara_county_ca_santa_clara_county.json"
+    },
+    "Marin County, CA": {
+      "fetched_count": 330,
+      "total_results": 330,
+      "batch_count": 2,
+      "saved_file": "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114119_marin_county_ca_marin_county.json"
+    },
+    "Contra Costa County, CA": {
+      "fetched_count": 1504,
+      "total_results": 1504,
+      "batch_count": 8,
+      "saved_file": "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114136_contra_costa_county_ca_contra_costa_county.json"
+    }
+  },
+  "total_properties": 14309,
+  "saved_files": [
+    "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_113940_los_angeles_county_ca_los_angeles_county.json",
+    "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114021_orange_county_ca_orange_county.json",
+    "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114033_san_francisco_county_ca_san_francisco_county.json",
+    "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114052_alameda_county_ca_alameda_county.json",
+    "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114101_san_mateo_county_ca_san_mateo_county.json",
+    "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114114_santa_clara_county_ca_santa_clara_county.json",
+    "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114119_marin_county_ca_marin_county.json",
+    "/Users/shuai/Desktop/realestatepal/realestatepal/backend_services/data/raw/20250822_114136_contra_costa_county_ca_contra_costa_county.json"
+  ]
+}
