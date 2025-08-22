@@ -255,3 +255,12 @@ Detached车库：独立车库改建，可加二层
 - **预制ADU快速增长** - 从5%增长到约15%
 - **车库改造略有下降** - 因为容易改的都改了
 - **独立ADU比例上升** - 融资选择增多
+
+
+## 其他方案
+考虑1）什么时候Ground Up打败所有策略：pythondef should_consider_ground_up(property):
+    land_value_ratio = property.land_value / property.total_value
+    
+    if land_value_ratio > 0.7:  # 土地价值占70%以上
+
+考虑2）3. SB 9 Lot Split（地块分割）
