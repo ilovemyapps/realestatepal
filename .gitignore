@@ -53,6 +53,9 @@ yarn-error.log*
 *~
 .DS_Store
 
+# Claude configuration
+.claude/
+
 # Logs
 logs/
 *.log
