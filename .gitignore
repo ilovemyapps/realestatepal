@@ -80,3 +80,6 @@ temp/
 # Cache
 .cache/
 *.cache
+
+#data
+backend_services/data/raw/zoning-data/
