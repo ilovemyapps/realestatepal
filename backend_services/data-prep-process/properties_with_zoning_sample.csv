@@ -1,0 +1,503 @@
+address,city,price,sqft,lot_sqft,lot_sqft_ratio,existing_adu,County,Jurisdiction,Code,Description,New_Class,has_zoning,jurisdiction_type
+15227 Graystone Ave,Norwalk,869000,1145.0,5068.0,4.426200873362445,1,LAN,Norwalk,R-1,Single-Family Residential,Suburban residential,True,Incorporated
+1303 N Merona St,Anaheim,898000,1278.0,7039.0,5.507824726134586,1,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+22849 Leadwell St,West Hills,830000,1299.0,7499.0,5.772902232486528,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+11373 Rampart Dr,Dublin,1590000,2262.0,13328.0,5.892130857648099,0,ALA,Dublin,R-1,R-1,Suburban residential,True,Incorporated
+5841 Arroyo Dr,Los Angeles,1148000,1260.0,5564.0,4.415873015873016,0,LAN,Los Angeles,RD2-1,RESIDENTIAL,Multi-family,True,Incorporated
+1732 Newport Ave,Pasadena,1165000,1420.0,5421.0,3.817605633802817,0,LAN,Pasadena,RS-6,Single-Family Residential,Suburban residential,True,Incorporated
+561 Culp Ave,Hayward,725000,992.0,5100.0,5.141129032258065,0,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+5712 Grandview Ave,Yorba Linda,1699900,2050.0,15875.0,7.7439024390243905,0,ORA,Yorba Linda,RE,Residential Estate,Suburban residential,True,Incorporated
+6382 Cayuga Dr,Westminster,995000,1237.0,7416.0,5.995149555375909,0,ORA,Westminster,R-1,R1 (Single-Family Residential) District,Suburban residential,True,Incorporated
+2035 Litchfield Ave,Long Beach,849000,979.0,7879.0,8.048008171603676,0,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+36686 Charles St,Newark,1028888,1190.0,5500.0,4.621848739495798,1,ALA,Newark,R-6000,Low Density Residential - 6000 District,Suburban residential,True,Incorporated
+5846 Cold Water Dr,Castro Valley,1325000,1723.0,16646.0,9.661056297156122,0,ALA,ALA,R1-BE-CSU-RV-HO,Single Family Residential,Suburban residential,True,Incorporated
+82 Hollywood Ave,San Jose,1288000,1956.0,5922.0,3.0276073619631902,1,SCL,San Jose,R-2,R-2,Urban residential,True,Incorporated
+11926 Kathyann St,Sylmar,1200000,1683.0,7576.0,4.501485442661913,1,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+124 S Beachwood Dr,Burbank,1350000,1750.0,6752.0,3.858285714285714,1,LAN,Burbank,(R-1) Residential Single Family,(R-1) Residential Single Family,Suburban residential,True,Incorporated
+4321 Apricot Rd,Simi Valley,949000,1367.0,10018.0,7.328456474030724,1,VEN,Simi Valley,RM,RESIDENTIAL MEDIUM DENSITY,Suburban residential,True,Incorporated
+337 N 3rd St,Montebello,919999,1468.0,6236.0,4.247956403269755,1,LAN,Montebello,R-3, ,Multi-family,True,Incorporated
+1803 Bucknall Rd,Campbell,1950000,2319.0,8100.0,3.4928848641655885,0,SCL,Campbell,MDR,Medium Density Residential ,Multi-family,True,Incorporated
+227 W Fairview Blvd,Inglewood,850000,1178.0,6771.0,5.747877758913413,0,LAN,Inglewood,R-1,RES SINGLE FAMILY,Suburban residential,True,Incorporated
+3613 Potrero Dr,Fullerton,1200000,1816.0,15606.0,8.593612334801762,1,ORA,Fullerton,R120,"R-1-20 One-Family Residential (20,000 SF min. lot size)",Suburban residential,True,Incorporated
+2230 Crocker Way,Santa Clara,1999000,1689.0,8040.0,4.760213143872114,0,SCL,Santa Clara,R1-6L,R1-6L,Suburban residential,True,Incorporated
+6290 Lillian Way,San Jose,1699950,1468.0,6000.0,4.087193460490464,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+17025 Labrador St,Northridge,1275000,2106.0,13855.0,6.578822412155746,0,LAN,Los Angeles,RA-1,AGRICULTURE,Suburban residential,True,Incorporated
+30 LA Cuesta Rd,Orinda,1599000,2486.0,12000.0,4.8270313757039425,1,CCO,Orinda,RL-20,RL-20,Suburban residential,True,Incorporated
+5785 Bertrand Ave,Encino,1350000,1615.0,5617.0,3.4780185758513933,1,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+7506 Amarillo Rd,Dublin,1649000,1948.0,8094.0,4.155030800821355,0,ALA,Dublin,R-1,R-1,Suburban residential,True,Incorporated
+819 Wall St,Livermore,1250000,1676.0,6900.0,4.116945107398568,1,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+543 Grizzly Peak Blvd,Berkeley,995000,1578.0,5029.0,3.1869455006337137,0,ALA,Berkeley,R-1H,R-1H,Urban residential,True,Incorporated
+91 Tunnel Rd,Berkeley,2200000,2048.0,8820.0,4.306640625,0,ALA,Berkeley,R-1H,R-1H,Urban residential,True,Incorporated
+13345 Burbank Blvd,Van Nuys,1100000,1161.0,6719.0,5.787252368647717,1,LAN,Los Angeles,[Q]R3-1,RESIDENTIAL,Multi-family,True,Incorporated
+7722 Park McComber Cir,Buena Park,1086550,1550.0,8540.0,5.509677419354839,0,ORA,Buena Park,RS-6,"6,000 sq. ft. One Family Residential",Suburban residential,True,Incorporated
+12744 El Dorado Ave,Sylmar,780000,1078.0,5500.0,5.1020408163265305,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+2511 Nipomo Ave,Long Beach,1250000,1366.0,5087.0,3.724011713030747,0,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+719 S Amstutz Ave,Anaheim,879000,1218.0,5101.0,4.1880131362889985,1,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+35922 Rosewood Dr,Newark,1249950,1336.0,6000.0,4.491017964071856,0,ALA,Newark,R-6000,Low Density Residential - 6000 District,Suburban residential,True,Incorporated
+1359 Rudgear Rd,Walnut Creek,1099000,1813.0,20700.0,11.41753998896856,1,CCO,Walnut Creek,R20,R20,Suburban residential,True,Incorporated
+2108 Raleigh Ave,Costa Mesa,1239000,1200.0,6120.0,5.1,0,ORA,Costa Mesa,R1,R1,Suburban residential,True,Incorporated
+819 S Courson Dr,Anaheim,1075000,1691.0,7200.0,4.257835600236547,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+14214 Lucian Ave,San Jose,888000,848.0,5700.0,6.721698113207547,0,SCL,SCL,R1,R1,Suburban residential,True,Incorporated
+1231 Sheppard Dr,Fullerton,1490000,1901.0,11616.0,6.110468174644923,0,ORA,Fullerton,R110,"R-1-10 One-Family Residential (10,000 SF min. lot size)",Suburban residential,True,Incorporated
+2280 Zoria Cir,San Jose,1490000,1530.0,6000.0,3.9215686274509802,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+4400 Sandalwood Dr,Pleasanton,1899000,2232.0,7884.0,3.532258064516129,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+1847 W Flower Ave,Fullerton,926500,1311.0,6240.0,4.759725400457666,0,ORA,Fullerton,R16,"R-1-6 One-Family Residential (6,000 SF min. lot size)",Suburban residential,True,Incorporated
+2925 Dona Susana Dr,Studio City,2355000,2404.0,11166.0,4.644758735440932,0,LAN,Los Angeles,RE15-1-H,RESIDENTIAL,Suburban residential,True,Incorporated
+1548 San Gabriel Way,San Jose,2499000,2230.0,7952.0,3.565919282511211,0,SCL,San Jose,R-1-5,R-1-5,Suburban residential,True,Incorporated
+903 Michigan Ave,San Jose,1988000,1804.0,6550.0,3.630820399113082,1,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+10839 Danube Ave,Granada Hills,889800,1374.0,7715.0,5.614992721979622,1,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+5677 Slicers Cir,Agoura Hills,895000,1218.0,5252.0,4.3119868637110015,0,LAN,Agoura Hills,RM,RM,Multi-family,True,Incorporated
+2108 N Rosewood Ave,Santa Ana,1249000,1705.0,7811.0,4.581231671554252,0,ORA,Santa Ana,R1,Single-Family Residence,Suburban residential,True,Incorporated
+11721 Dale St,Garden Grove,894999,1288.0,7312.0,5.6770186335403725,1,ORA,ORA,R1,Single-Family Residence,Suburban residential,True,Incorporated
+10721 Landale St,Toluca Lake,1095000,1210.0,7497.0,6.195867768595042,1,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+2707 Windsor Ave,Altadena,950000,1425.0,7317.0,5.134736842105263,0,LAN,Pasadena,RS-4,Single-Family Residential,Suburban residential,True,Incorporated
+7845 5th St,Downey,1499999,2091.0,9424.0,4.506934481109517,0,LAN,Downey,R-1 5000, ,Urban residential,True,Incorporated
+1613 Union St,Alameda,1098000,1223.0,5400.0,4.415372035977105,0,ALA,Alameda,R-5,R-5,Multi-family,True,Incorporated
+7672 Sunside Dr,San Gabriel,829000,1071.0,6571.0,6.135387488328665,1,LAN,LAN,A-1,Light Agricultural,Exurban residential,True,Incorporated
+2647 Hawthorne Ave,Hayward,940000,1228.0,5600.0,4.5602605863192185,1,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+137 Neptune Pl,San Ramon,775000,1165.0,5400.0,4.635193133047211,0,CCO,San Ramon,ZM-RS-6,ZM-RS-6,Suburban residential,True,Incorporated
+20717 Burbank Blvd,Woodland Hills,1025000,1404.0,8210.0,5.847578347578348,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+8120 E Woodson St,Long Beach,779000,1064.0,6289.0,5.910714285714286,0,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+4697 Canary Dr,Pleasanton,1799000,1923.0,7214.0,3.7514300572022883,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+7822 Peach Ave,Van Nuys,959000,1338.0,8075.0,6.035127055306427,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1100 N Vinedo Ave,Pasadena,1399800,1393.0,7027.0,5.044508255563532,0,LAN,Pasadena,RS-6,Single-Family Residential,Suburban residential,True,Incorporated
+5629 Graywood Ave,Lakewood,899950,1456.0,5132.0,3.5247252747252746,0,LAN,Lakewood,R-1,R-1,Urban residential,True,Incorporated
+5179 Pebbletree Ct,San Jose,1263000,1089.0,6440.0,5.913682277318641,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+2006 W Wilshire Ave,Santa Ana,850000,1071.0,6001.0,5.603174603174603,0,ORA,Santa Ana,R1,Single-Family Residence,Suburban residential,True,Incorporated
+6700 Densmore Ave,Van Nuys,799000,1170.0,5766.0,4.9282051282051285,0,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+1923 S Janette Ln,Anaheim,1250000,1857.0,8415.0,4.531502423263328,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+3665 Warwick Rd,Fremont,1650000,1624.0,6573.0,4.047413793103448,0,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+1901 N Bellflower Blvd,Long Beach,1095000,1335.0,6288.0,4.710112359550561,0,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+34264 Atteridge Pl,Fremont,1788800,1728.0,6188.0,3.5810185185185186,0,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+522 N Clark St,Orange,850000,1146.0,6408.0,5.591623036649215,0,ORA,Orange,R-3,Residential Multiple Family,Multi-family,True,Incorporated
+14463 San Esteban Dr,La Mirada,799000,1161.0,6904.0,5.946597760551249,0,LAN,La Mirada,R-1-6000, ,Urban residential,True,Incorporated
+3868 Orion Ct,Pleasanton,2050000,2480.0,8735.0,3.5221774193548385,0,ALA,Pleasanton,PUD-MDR,Planned Unit Development - Medium Density Residential,Planned area,True,Incorporated
+7660 Applewood Way,Pleasanton,1399999,1680.0,8880.0,5.285714285714286,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+1316 E Romneya Dr,Anaheim,889000,1320.0,6003.0,4.547727272727273,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+22046 Buena Ventura St,Woodland Hills,999000,1418.0,6284.0,4.431593794076163,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+3125 Oakgate Way,San Jose,1649999,1632.0,6137.0,3.7604166666666665,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+4124 Sunswept Dr,Studio City,1700000,1786.0,17559.0,9.831466965285554,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+35225 Santiago St,Fremont,1288888,1108.0,6056.0,5.465703971119134,0,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+1420 Pinehurst Dr,San Jose,1750000,1686.0,6745.0,4.000593119810202,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+21683 Summit Rd,Los Gatos,835000,1135.0,5989.0,5.276651982378855,0,SCL,SCL,HS-sr,HS-sr,Rural residential,True,Incorporated
+1820 Alsace Ave,Los Angeles,1575000,1628.0,5517.0,3.388820638820639,1,LAN,Los Angeles,RD1.5-1-O,RESIDENTIAL,Multi-family,True,Incorporated
+946 Larker Ave,Los Angeles,1450000,1575.0,6002.0,3.810793650793651,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+460 Collinwood Ct,Santa Clara,1398000,1312.0,6000.0,4.573170731707317,0,SCL,Santa Clara,R1-6L,R1-6L,Suburban residential,True,Incorporated
+1118 Zinfandel Way,San Jose,1998000,2083.0,8050.0,3.8646183389342297,0,SCL,San Jose,R-1-5,R-1-5,Suburban residential,True,Incorporated
+3223 Washington Ave,El Monte,850000,1380.0,8673.0,6.284782608695652,1,LAN,El Monte,R-1A,R-1A,Suburban residential,True,Incorporated
+28904 Timberlane St,Agoura Hills,1495000,1722.0,6882.0,3.9965156794425085,0,LAN,Agoura Hills,RS (5)7000,RS (5)7000,Suburban residential,True,Incorporated
+721 Sinnet Ct,Danville,1798000,1735.0,8800.0,5.072046109510087,0,CCO,Danville,R-10,Single Family Residential - Medium Density (3 to 5 Units per acre),Suburban residential,True,Incorporated
+444 Cabonia Ct,Pleasanton,2199000,2296.0,8740.0,3.8066202090592336,0,ALA,Pleasanton,PUD-A/OS/LDR,Agriculture/Open Space/Low Density Residential-PUD,Agricultural,True,Incorporated
+3176 Jordan Rd,Oakland,725000,1102.0,6594.0,5.983666061705989,0,ALA,Oakland,RD-1,RD-1,Urban residential,True,Incorporated
+20401 Napa St,Winnetka,899900,1225.0,7814.0,6.378775510204082,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+473 Andrea Cir,Livermore,948000,1468.0,5100.0,3.474114441416894,0,ALA,Livermore,PUD 240-84,Planned Development,Planned area,True,Incorporated
+5933 Dunn Ave,San Jose,1649000,1826.0,6344.0,3.4742606790799564,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+17035 Copper Hill Dr,Morgan Hill,1399000,2043.0,22799.0,11.159569260890846,0,SCL,Morgan Hill,"RDL 20,000","RDL 20,000",Suburban residential,True,Incorporated
+6667 Royer Ave,West Hills,1379777,1661.0,7621.0,4.588199879590608,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+8460 Valencia St,Dublin,1188000,1321.0,6999.0,5.298258894776684,0,ALA,Dublin,R-1,R-1,Suburban residential,True,Incorporated
+125 Magellan Ave,San Jose,969888,993.0,5250.0,5.287009063444109,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1754 Perch St,San Pedro,1449000,2059.0,7082.0,3.4395337542496356,0,LAN,Los Angeles,R1-1XL,RESIDENTIAL,Urban residential,True,Incorporated
+211 E Virginia Ave,Glendora,999999,1664.0,7004.0,4.209134615384615,0,LAN,Glendora,R-1, ,Suburban residential,True,Incorporated
+5403 W 123rd Pl,Hawthorne,990000,1111.0,5473.0,4.9261926192619265,1,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+5629 Judith St,San Jose,1535989,1822.0,6510.0,3.5729967069154775,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+6022 Larchwood Dr,Huntington Beach,1399000,1681.0,6120.0,3.64069006543724,0,ORA,Huntington Beach,RL,Residential Low Density,Suburban residential,True,Incorporated
+30605 Rue De La Pierre,Rancho Palos Verdes,2100000,2065.0,15340.0,7.428571428571429,0,LAN,Rancho Palos Verdes,rs-4,Residential Single - Lot > 10;000 Square Feet,Suburban residential,True,Incorporated
+41 E Bonita Ave,Sierra Madre,1695000,1891.0,13577.0,7.179799048122686,0,LAN,Sierra Madre,R-1-15, ,Suburban residential,True,Incorporated
+4103 Palo Verde Ave,Lakewood,950000,1316.0,7155.0,5.436930091185411,0,LAN,Lakewood,R-1,R-1,Urban residential,True,Incorporated
+4544 Thornton Ave,Fremont,2000000,1968.0,11510.0,5.848577235772358,1,ALA,Fremont,R-3-18,R-3-18,Multi-family,True,Incorporated
+917 N Olive Ave,Alhambra,1560000,1985.0,7882.0,3.9707808564231737,0,LAN,Alhambra,R-1,R-1,Suburban residential,True,Incorporated
+12681 Amethyst St,Garden Grove,1148800,1486.0,6000.0,4.037685060565276,0,ORA,Garden Grove,R-1-6,Single-Family Residential Zone,Suburban residential,True,Incorporated
+2164 Nelda Way,Alamo,1995000,2443.0,30450.0,12.464183381088825,0,CCO,CCO,R-20,Single Family Residential,Suburban residential,True,Incorporated
+1519 W 111th St,Los Angeles,735000,1110.0,5239.0,4.71981981981982,0,LAN,LAN,SP,Specific Plan,Planned area,True,Incorporated
+5857 Blossom Ave,San Jose,1399888,1347.0,6000.0,4.4543429844097995,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+39 Norwood Ave,Kensington,1298000,1954.0,7350.0,3.7615148413510746,0,CCO,CCO,R-6 -TOV -K,Single Family Residential Tree Obstruction of View Ordinance and Kensington Combining District,Suburban residential,True,Incorporated
+2466 Saint Lawrence Dr,San Jose,1788888,1584.0,6534.0,4.125,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1121 Gladys Ave,Long Beach,815000,1325.0,6501.0,4.906415094339622,1,LAN,Long Beach,R-2-N,R-2-N,Urban residential,True,Incorporated
+4202 Grove Ct,Livermore,1750000,2320.0,9155.0,3.9461206896551726,0,ALA,Livermore,PDR-02-009,Planned Development,Planned area,True,Incorporated
+5 Stuart Pl,Danville,1769000,2484.0,8400.0,3.3816425120772946,1,CCO,Danville,P-1,Planned Unit District,Planned area,True,Incorporated
+6632 Spruce Ln,Dublin,1145000,1268.0,5399.0,4.257886435331231,0,ALA,Dublin,R-1,R-1,Suburban residential,True,Incorporated
+10941 Peach Grove St,Toluca Lake,1395000,2008.0,7705.0,3.837151394422311,0,LAN,Los Angeles,[Q]R3-1,RESIDENTIAL,Multi-family,True,Incorporated
+2175 Lariat Ln,Walnut Creek,1498000,2220.0,13818.0,6.224324324324324,1,CCO,Walnut Creek,PD,PD,Planned area,True,Incorporated
+1393 West St,Hayward,930000,1372.0,6177.0,4.502186588921282,0,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+3522 Potomac Ave,Los Angeles,1595000,1650.0,6001.0,3.636969696969697,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1145 Mandana Blvd,Oakland,1578000,2302.0,8745.0,3.7988705473501305,0,ALA,Oakland,RD-1,RD-1,Urban residential,True,Incorporated
+5491 Fernwood Dr,Newark,1095000,1080.0,6000.0,5.555555555555555,0,ALA,Newark,R-6000,Low Density Residential - 6000 District,Suburban residential,True,Incorporated
+237 Taurus Ave,Oakland,850000,1216.0,12197.0,10.030427631578947,0,ALA,Oakland,RH-4,RH-4,Suburban residential,True,Incorporated
+3076 Baronscourt Way,San Jose,1520000,1806.0,5663.0,3.135658914728682,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+27056 Shorewood Rd,Rancho Palos Verdes,1650000,1713.0,9219.0,5.381786339754816,0,LAN,Rancho Palos Verdes,rs-5,Residential Single - Lot > 8;000 Square Feet,Suburban residential,True,Incorporated
+170 W Linden Ave,Burbank,1125000,1328.0,10144.0,7.63855421686747,1,LAN,Burbank,(R-3) Residential Multiple Low Density,(R-3) Residential Multiple Low Density,Multi-family,True,Incorporated
+38824 Jonquil Dr,Newark,1499000,1899.0,9085.0,4.7840968931016326,0,ALA,Newark,R-7000,Low Density Residential - 7000 District,Suburban residential,True,Incorporated
+1568 Clayton Rd,San Jose,888520,1293.0,8040.0,6.218097447795824,1,SCL,San Jose,R-1-5,R-1-5,Suburban residential,True,Incorporated
+11418 Betlen Dr,Dublin,1650000,2220.0,10154.0,4.573873873873874,0,ALA,Dublin,R-1,R-1,Suburban residential,True,Incorporated
+1626 Grove Pl,Fullerton,1100000,1636.0,7258.0,4.43643031784841,0,ORA,Fullerton,R172,"R-1-7.2 One-Family Residential (7,200 SF min. lot size)",Suburban residential,True,Incorporated
+2365 Las Lunas St,Pasadena,1499995,1808.0,8702.0,4.813053097345133,0,LAN,Pasadena,RS-6,Single-Family Residential,Suburban residential,True,Incorporated
+14259 Hatteras St,Van Nuys,1499000,2412.0,9135.0,3.787313432835821,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+3136 Frances Ave,La Crescenta,1375000,1718.0,10591.0,6.164726426076833,0,LAN,LAN,R-1-7500,Single-Family Residence,Suburban residential,True,Incorporated
+10181 Lampson Ave,Garden Grove,1159000,1713.0,8400.0,4.903677758318739,1,ORA,Garden Grove,R-3,Multiple Family Residential,Multi-family,True,Incorporated
+1465 Mount Shasta Dr,San Jose,1100000,1198.0,5300.0,4.424040066777963,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+3588 Helms Ave,Culver City,1465000,1256.0,5402.0,4.300955414012739,1,LAN,Culver City,R2,R2,Urban residential,True,Incorporated
+8831 Stansbury Ave,Panorama City,760000,1014.0,6208.0,6.122287968441815,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+4220 Bellaire Ave,Studio City,1898000,1931.0,7108.0,3.680994303469705,0,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+1356 N Avenue 46,Los Angeles,1450000,1336.0,8730.0,6.5344311377245505,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1612 Peachwood Dr,San Jose,1395000,1497.0,6000.0,4.008016032064128,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1538 Simmons Ave,Los Angeles,850000,880.0,5576.0,6.336363636363636,0,LAN,LAN,R-3,Limited Density Multiple Residence,Multi-family,True,Incorporated
+5991 Sorrel Ave,San Jose,1600000,1952.0,6120.0,3.1352459016393444,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+5240 Ramsdell Ave,La Crescenta,1595000,2226.0,14343.0,6.443396226415095,1,LAN,LAN,R-1-10000,Single-Family Residence,Suburban residential,True,Incorporated
+2205 Las Lunas St,Pasadena,1730000,1950.0,8712.0,4.467692307692308,0,LAN,Pasadena,RS-6,Single-Family Residential,Suburban residential,True,Incorporated
+28012 Seashell Way,Rancho Palos Verdes,2090000,2447.0,8054.0,3.2913771965672254,0,LAN,Rancho Palos Verdes,rs-4,Residential Single - Lot > 10;000 Square Feet,Suburban residential,True,Incorporated
+2864 Haughton Dr,San Jose,1399000,1320.0,6000.0,4.545454545454546,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+8701 Davona Dr,Dublin,1349000,1464.0,7000.0,4.781420765027322,0,ALA,Dublin,R-1,R-1,Suburban residential,True,Incorporated
+8398 Shoup Ave,West Hills,1025000,1549.0,11361.0,7.3344092963202066,0,LAN,Los Angeles,RE11-1,RESIDENTIAL,Suburban residential,True,Incorporated
+2022 W Spruce Ave,Orange,1149500,1642.0,6200.0,3.7758830694275276,0,ORA,Orange,R-1-6,Single Family Res. 6000 sq ft,Suburban residential,True,Incorporated
+554 S Elder St,Anaheim,895000,1390.0,6342.0,4.562589928057554,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+2537 Dos Rios Dr,San Ramon,1450000,1673.0,10005.0,5.980274955170352,0,CCO,San Ramon,ZM-RS-10,ZM-RS-10,Suburban residential,True,Incorporated
+3641 Shenandoah Ct,Pleasanton,1550000,1744.0,7335.0,4.205848623853211,1,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+485 Wilaneta Ave,Fremont,2095000,1906.0,5973.0,3.133788037775446,0,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+15049 Kesterson St,San Leandro,850000,1061.0,5520.0,5.202639019792649,0,ALA,San Leandro,RS,Residential Single-Family,Suburban residential,True,Incorporated
+5364 E Daggett St,Long Beach,910000,1164.0,7004.0,6.017182130584192,1,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+2681 Sycamore Grove Pl,San Jose,2488000,2332.0,9171.0,3.9326758147512866,0,SCL,San Jose,A(PD),A(PD),Planned area,True,Incorporated
+782 Manzanita Ave,Sunnyvale,1499000,1365.0,5001.0,3.6637362637362636,0,SCL,Sunnyvale,R0,R0,Suburban residential,True,Incorporated
+5860 Allen Ave,San Jose,1525000,1720.0,6090.0,3.5406976744186047,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1311 N Griffith Park Dr,Burbank,995000,1095.0,6059.0,5.533333333333333,1,LAN,Burbank,(R-1) Residential Single Family,(R-1) Residential Single Family,Suburban residential,True,Incorporated
+8071 Taylor Dr,Huntington Beach,1298000,1484.0,6360.0,4.285714285714286,0,ORA,Huntington Beach,RL,Residential Low Density,Suburban residential,True,Incorporated
+3721 W 181st St,Torrance,1150000,1480.0,5224.0,3.5297297297297296,0,LAN,Torrance,R1,R1,Suburban residential,True,Incorporated
+11531 Bexley Dr,Whittier,769000,1130.0,5678.0,5.024778761061947,0,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+3448 Coolheights Dr,Rancho Palos Verdes,2780000,2478.0,11034.0,4.452784503631961,0,LAN,Rancho Palos Verdes,rs-3,"Residential Single - Lot > 13;000 Square Feet
+",Suburban residential,True,Incorporated
+1186 McClellan Dr,Los Angeles,1745000,1538.0,5339.0,3.4713914174252274,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1263 Flickinger Ave,San Jose,1395000,1168.0,6000.0,5.136986301369863,0,SCL,San Jose,A(PD),A(PD),Planned area,True,Incorporated
+10827 Yarmouth Ave,Granada Hills,850000,1254.0,5502.0,4.3875598086124405,0,LAN,Los Angeles,RE9-1XL-RFA,RESIDENTIAL,Suburban residential,True,Incorporated
+11345 Groveland Ave,Whittier,859000,1353.0,6191.0,4.575757575757576,0,LAN,LAN,R-A-6000,Residential Agricultural,Suburban residential,True,Incorporated
+8102 Willis Ave,Panorama City,1050000,1248.0,6226.0,4.988782051282051,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+5611 S Sherbourne Dr,Los Angeles,2299000,2262.0,9072.0,4.010610079575597,1,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+5019 Serrania Ave,Woodland Hills,949000,1166.0,5502.0,4.718696397941681,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+12414 Fallingleaf St,Garden Grove,1138000,1340.0,7410.0,5.529850746268656,1,ORA,Garden Grove,R-1-7,Single-Family Residential Zone,Suburban residential,True,Incorporated
+952 S Emerald St,Anaheim,969900,1375.0,6300.0,4.581818181818182,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+1653 W Brande Ave,Anaheim,949000,1440.0,6052.0,4.2027777777777775,1,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+133 S 20th St,San Jose,1498000,1541.0,7800.0,5.061648280337443,1,SCL,San Jose,R-2,R-2,Urban residential,True,Incorporated
+5562 Starcrest Dr,San Jose,1698888,1979.0,6322.0,3.194542698332491,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+3112 Ledgewood Dr,Los Angeles,1425000,1272.0,7137.0,5.610849056603773,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+8252 McFadden Ave,Midway City,999900,1122.0,7210.0,6.42602495543672,0,ORA,ORA,R1,Single-Family Residence,Suburban residential,True,Incorporated
+8252 McFadden Ave,Midway City,999900,1122.0,7210.0,6.42602495543672,0,ORA,Westminster,SOI,SOI (Sphere of Influence),Planned area,True,Incorporated
+3242 Heglis Ave,Rosemead,965000,1105.0,5133.0,4.645248868778281,1,LAN,Rosemead,001:R-1, ,Exurban residential,True,Incorporated
+668 Curtner Ave,Campbell,1899950,1730.0,12602.0,7.284393063583815,1,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+13817 Bessemer St,Valley Glen,1699777,2064.0,6753.0,3.2718023255813953,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+10143 Amestoy Ave,Northridge,1249999,1544.0,11122.0,7.203367875647668,0,LAN,Los Angeles,RE11-1,RESIDENTIAL,Suburban residential,True,Incorporated
+1199 W 38th St,Los Angeles,899000,1080.0,5487.0,5.080555555555556,1,LAN,Los Angeles,RD2-1-CPIO,RESIDENTIAL,Multi-family,True,Incorporated
+3156 San Joaquin Way,Union City,1488888,1810.0,5500.0,3.0386740331491713,0,ALA,Union City,RS 6000,Single Family Residential,Suburban residential,True,Incorporated
+48346 Cottonwood St,Fremont,1899000,1948.0,7020.0,3.6036960985626285,0,ALA,Fremont,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1594 Inverness Cir,San Jose,1199888,1624.0,6180.0,3.8054187192118225,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+561 Manzanita Ave,Sunnyvale,1998000,1800.0,5927.0,3.292777777777778,0,SCL,Sunnyvale,R0,R0,Suburban residential,True,Incorporated
+15958 Via Descanso,San Lorenzo,849777,1252.0,5076.0,4.054313099041534,0,ALA,ALA,R1,Single Family Residential,Suburban residential,True,Incorporated
+26294 Dodge Ave,Hayward,819000,1107.0,5980.0,5.401987353206866,0,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+1205 English St,Santa Ana,959000,1252.0,6065.0,4.844249201277956,0,ORA,Santa Ana,R1,Single-Family Residence,Suburban residential,True,Incorporated
+700 Eschenburg Dr,Gilroy,1349000,1714.0,8352.0,4.872812135355892,1,SCL,Gilroy,R-1,R-1,Suburban residential,True,Incorporated
+549 E Walnut Ave,Glendora,875000,1298.0,7955.0,6.128659476117103,0,LAN,Glendora,R-1, ,Suburban residential,True,Incorporated
+38071 3rd St,Fremont,1595000,1813.0,9105.0,5.022062879205737,0,ALA,Fremont,R-1-8(HOD),R-1-8(HOD),Suburban residential,True,Incorporated
+421 N Grove St,Sierra Madre,1695000,2106.0,7471.0,3.5474833808167143,0,LAN,Sierra Madre,R-1, ,Suburban residential,True,Incorporated
+62 Warfield Dr,Moraga,1650000,2038.0,16988.0,8.335623159960745,0,CCO,Moraga,1-DUA,1-DUA = 1 du,Suburban residential,True,Incorporated
+2754 Franklin St,La Crescenta,1398000,1489.0,5279.0,3.54533243787777,1,LAN,LAN,R-1-7500,Single-Family Residence,Suburban residential,True,Incorporated
+3518 Faust Ave,Long Beach,989990,1434.0,5342.0,3.7252440725244074,0,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+373 W Santa Cruz St,San Pedro,819000,1173.0,5003.0,4.265132139812446,1,LAN,Los Angeles,R2-1XL-CPIO,RESIDENTIAL,Urban residential,True,Incorporated
+148 W Maude Ave,Sunnyvale,1898000,1652.0,5011.0,3.0332929782082325,0,SCL,Sunnyvale,R0,R0,Suburban residential,True,Incorporated
+1740 Laguna Dr,La Habra,775000,1040.0,6400.0,6.153846153846154,0,ORA,La Habra,R-1b,R-1b,Suburban residential,True,Incorporated
+3823 Lorado Way,View Park,1495000,1800.0,6733.0,3.7405555555555554,0,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+4858 Rue Toulon Ct,San Jose,1350000,1446.0,6708.0,4.639004149377594,1,SCL,San Jose,R-1-8(PD),R-1-8(PD),Suburban residential,True,Incorporated
+6123 Fred Dr,Cypress,1010000,1250.0,6000.0,4.8,0,ORA,Cypress,RS 6000,RS 6000,Suburban residential,True,Incorporated
+4879 Boone Dr,Fremont,1449888,1544.0,6500.0,4.209844559585492,0,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+4508 N Heathdale Ave,Covina,775000,1173.0,6068.0,5.17306052855925,0,LAN,LAN,R-A-7000,Residential Agricultural,Suburban residential,True,Incorporated
+8615 Calmosa Ave,Whittier,1100000,1413.0,9189.0,6.503184713375796,0,LAN,Whittier,R-1 (10000),SINGLE FAMILY RESIDENTIAL,Suburban residential,True,Incorporated
+16221 Castana Ave,Bellflower,850000,1061.0,6210.0,5.852968897266729,0,LAN,Bellflower,R-1,R-1,Suburban residential,True,Incorporated
+12151 Foster Rd,Los Alamitos,1450000,1768.0,7700.0,4.355203619909502,0,ORA,ORA,R1/28 (C3849),Single-Family Residence,Suburban residential,True,Incorporated
+130 Samoa Ct,San Ramon,2099800,2362.0,21000.0,8.890770533446233,0,CCO,San Ramon,ZM-RS-10,ZM-RS-10,Suburban residential,True,Incorporated
+471 Rose St,Livermore,848000,1150.0,6365.0,5.534782608695652,1,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+7153 Helmsdale Cir,West Hills,1350000,1675.0,25772.0,15.386268656716418,0,LAN,Los Angeles,RE11-1,RESIDENTIAL,Suburban residential,True,Incorporated
+5919 5921 Cantaloupe Ave,Valley Glen,1149000,1430.0,6752.0,4.721678321678322,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1531 E Doublegrove St,West Covina,849000,1400.0,7520.0,5.371428571428571,0,LAN,West Covina,R-1,R-1,Suburban residential,True,Incorporated
+4149 Moselle Ct,Pleasanton,2099000,2187.0,11799.0,5.395061728395062,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+548 Sonoma Ave,Livermore,1375000,1723.0,6000.0,3.482298316889147,0,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+1559 Mount Diablo Ave,Milpitas,1448888,1249.0,5500.0,4.403522818254603,0,SCL,Milipitas,R1-6,Single Family Residential,Urban residential,True,Incorporated
+307 Rheem Blvd,Moraga,1459888,1685.0,14375.0,8.531157270029674,0,CCO,Moraga,2-DUA,2-DUA,Suburban residential,True,Incorporated
+1639 Blossom Hill Rd,San Jose,1670000,1832.0,8393.0,4.581331877729258,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+844 N Poinsettia Pl,Los Angeles,1849000,1991.0,7620.0,3.8272225012556502,0,LAN,Los Angeles,[Q]R3-1XL,RESIDENTIAL,Multi-family,True,Incorporated
+16413 Abascal Dr,Hacienda Heights,1280000,2065.0,6926.0,3.353995157384988,0,LAN,LAN,R-1-9000,Single-Family Residence,Suburban residential,True,Incorporated
+2541 E Denise Ave,Orange,1399000,1580.0,12600.0,7.974683544303797,0,ORA,Orange,R-1-20,Single Family Res. 20000 sq ft,Suburban residential,True,Incorporated
+11232 Dorland Dr,Whittier,750000,878.0,6012.0,6.847380410022779,0,LAN,Whittier,R-1,SINGLE FAMILY RESIDENTIAL,Suburban residential,True,Incorporated
+5102 W Carson St,Torrance,1195000,1162.0,7791.0,6.704819277108434,0,LAN,Torrance,R1,R1,Suburban residential,True,Incorporated
+2712 N Beverly Glen Blvd,Los Angeles,2195000,2320.0,7497.0,3.231465517241379,0,LAN,Los Angeles,RE15-1-H-RPD-HCR,RESIDENTIAL,Suburban residential,True,Incorporated
+4433 Arcola Ave,Toluca Lake,2399000,2406.0,7610.0,3.162926018287614,0,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+5950 Grizzly Peak Blvd,Oakland,1554999,2478.0,13939.0,5.625100887812752,0,ALA,Oakland,RH-3,RH-3,Suburban residential,True,Incorporated
+2025 W Vernon Ave,Los Angeles,899000,1146.0,5502.0,4.801047120418848,0,LAN,Los Angeles,RD1.5-1,RESIDENTIAL,Multi-family,True,Incorporated
+541 Everett St,El Cerrito,949000,1183.0,5001.0,4.2273879966187655,1,CCO,El Cerrito,RS-5,RS-5,Multi-family,True,Incorporated
+330 W Payson St,Glendora,868500,1314.0,7770.0,5.9132420091324205,0,LAN,Glendora,R-1, ,Suburban residential,True,Incorporated
+579 Crane Blvd,Los Angeles,1280000,1800.0,14471.0,8.039444444444445,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+6916 Graham Ave,Newark,1499000,1718.0,7230.0,4.208381839348079,1,ALA,Newark,R-2500,Medium Density Residential - 2500 District,Urban residential,True,Incorporated
+5517 Noble Ave,Sherman Oaks,1199000,1948.0,6749.0,3.4645790554414786,0,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+2207 Dexter Ct,Hayward,1175000,1888.0,6437.0,3.409427966101695,0,ALA,ALA,FASP-R1,Single Family Residential,Suburban residential,True,Incorporated
+5456 Del Oro Dr,San Jose,2195000,1852.0,6000.0,3.239740820734341,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+5318 E Brockwood St,Long Beach,799999,1002.0,5571.0,5.559880239520958,1,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+1705 Blossom Hill Rd,San Jose,1749000,1489.0,6540.0,4.392209536601746,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1307 W Hill Ave,Fullerton,949000,1290.0,7320.0,5.674418604651163,0,ORA,Fullerton,R172,"R-1-7.2 One-Family Residential (7,200 SF min. lot size)",Suburban residential,True,Incorporated
+769 Coakley Dr,San Jose,1798888,1922.0,7380.0,3.8397502601456814,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+4062 N Santa Anita St,Orange,1150000,1539.0,7000.0,4.548408057179987,0,ORA,Orange,R-1-7,Single Family Res. 7000 sq ft,Suburban residential,True,Incorporated
+119 Brice Ct,San Jose,1398800,1732.0,7488.0,4.323325635103926,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+626 Omelveny Ave,San Fernando,735000,1157.0,5007.0,4.327571305099395,1,LAN,San Fernando,R-1, ,Suburban residential,True,Incorporated
+1157 Morely Ct,San Jose,1188000,1350.0,5880.0,4.355555555555555,0,SCL,San Jose,R-1-8(PD),R-1-8(PD),Suburban residential,True,Incorporated
+4700 Emerald Ave,La Verne,1399000,2280.0,9888.0,4.336842105263158,1,LAN,La Verne,MHP, ,Mobile home,True,Incorporated
+6588 Flanders Dr,Newark,1188000,1126.0,6000.0,5.328596802841918,0,ALA,Newark,R-6000,Low Density Residential - 6000 District,Suburban residential,True,Incorporated
+354 Pasqual Ave,San Gabriel,1500000,1915.0,6500.0,3.3942558746736293,0,LAN,San Gabriel,R-1, ,Suburban residential,True,Incorporated
+18628 Madison Ave,Castro Valley,749000,1040.0,5445.0,5.235576923076923,0,ALA,ALA,R1-CSU-RV-HO,Single Family Residential,Suburban residential,True,Incorporated
+900 3rd Ave,Los Angeles,1588000,1796.0,7158.0,3.985523385300668,0,LAN,Los Angeles,R1-1-HPOZ,RESIDENTIAL,Urban residential,True,Incorporated
+2219 W Clark Ave,Burbank,1499000,1628.0,7551.0,4.638206388206388,1,LAN,Burbank,(R-1) Residential Single Family,(R-1) Residential Single Family,Suburban residential,True,Incorporated
+2116 Palos Verdes Dr W,Palos Verdes Estates,2100000,1943.0,7455.0,3.8368502316006174,0,LAN,Palos Verdes Estates,SFR, ,Exurban residential,True,Incorporated
+6556 Teesdale Ave,North Hollywood,935000,1272.0,5465.0,4.296383647798742,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+613 Santa Cruz Rd,Arcadia,1480000,1831.0,8766.0,4.787547788093938,0,LAN,Arcadia,R-1 (7500),R-1 (7500),Suburban residential,True,Incorporated
+21881 Koontz Way,Topanga,1095000,952.0,6993.0,7.345588235294118,0,LAN,LAN,R-1-1,Single-Family Residence,Suburban residential,True,Incorporated
+8567 Davona Dr,Dublin,1350000,1940.0,7275.0,3.75,0,ALA,Dublin,R-1,R-1,Suburban residential,True,Incorporated
+6948 E Los Santos Dr,Long Beach,1125000,1382.0,5960.0,4.312590448625181,0,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+12818 Neon Way,Granada Hills,1395000,2027.0,7920.0,3.9072520966946227,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+12155 Dunrobin Ave,Downey,719000,1191.0,7303.0,6.1318219983207385,0,LAN,Downey,R-1 5000, ,Urban residential,True,Incorporated
+1007 Glenhaven Ave,Fullerton,1389900,1926.0,10494.0,5.4485981308411215,0,ORA,Fullerton,R172,"R-1-7.2 One-Family Residential (7,200 SF min. lot size)",Suburban residential,True,Incorporated
+12711 Castleford Ln,Cerritos,2188888,2492.0,7806.0,3.1324237560192616,0,LAN,Cerritos,ADP-4,Area Development Plan 4,Suburban residential,True,Incorporated
+2668 Mozart Ave,San Jose,1149000,1120.0,5454.0,4.869642857142857,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1490 Davis St,San Jose,995000,964.0,10450.0,10.840248962655602,1,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1196 Crellin Rd,Pleasanton,1649000,1802.0,8265.0,4.586570477247503,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+619 1/4 N Sycamore Ave,Los Angeles,839000,1196.0,16320.0,13.645484949832776,0,LAN,Los Angeles,RD1.5-1XL,RESIDENTIAL,Multi-family,True,Incorporated
+310 Jackson St,Sunnyvale,1775000,1965.0,6875.0,3.4987277353689565,0,SCL,Sunnyvale,R0,R0,Suburban residential,True,Incorporated
+3931 Myra Ave,Los Alamitos,1465000,1988.0,6000.0,3.0181086519114686,0,ORA,Los Alamitos,R-1,R-1,Suburban residential,True,Incorporated
+13601 Simshaw Ave,Sylmar,800000,1316.0,7505.0,5.702887537993921,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+1075 Summerfield Dr,San Jose,988888,1444.0,6161.0,4.266620498614959,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+4014 W 175th Pl,Torrance,908000,1098.0,5183.0,4.72040072859745,0,LAN,Torrance,R1,R1,Suburban residential,True,Incorporated
+3332 Santa Carlotta St,La Crescenta,1349000,1810.0,5908.0,3.264088397790055,0,LAN,Glendale,R1 II,LOW DENSITY RESIDENTIAL FAR DIST II,Urban residential,True,Incorporated
+26709 Wauchula Way,Hayward,799000,1128.0,5600.0,4.964539007092198,0,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+19434 Calvert St,Tarzana,1299000,1867.0,6709.0,3.5934654525977505,1,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+2529 W Glenhaven Ave,Anaheim,875000,1213.0,6004.0,4.949711459192086,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+23020 Lita Pl,Woodland Hills,1849000,2084.0,10404.0,4.992322456813819,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+4345 Talofa Ave,Toluca Lake,2150000,2258.0,8251.0,3.654118689105403,0,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+155 Saint Vincent Ct,Danville,1889000,2227.0,9900.0,4.445442299057027,0,CCO,Danville,P-1 (R-10),Single Family Residential - Medium Density (3 to 5 Units per acre),Suburban residential,True,Incorporated
+2134 W LA Palma Ave,Anaheim,810000,1140.0,6300.0,5.526315789473684,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+3232 Brookhill St,La Crescenta,895000,896.0,5771.0,6.440848214285714,1,LAN,Glendale,R1 II,LOW DENSITY RESIDENTIAL FAR DIST II,Urban residential,True,Incorporated
+1195 Acadia Ave,Milpitas,1420000,1264.0,6451.0,5.103639240506329,1,SCL,Milipitas,R1-6,Single Family Residential,Urban residential,True,Incorporated
+903 Lanewood Dr,San Jose,1495000,1572.0,6812.0,4.333333333333333,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+521 S Western Ave,Santa Ana,1050000,1539.0,8940.0,5.8089668615984404,0,ORA,Santa Ana,R1,Single-Family Residence,Suburban residential,True,Incorporated
+1030 N LA Jolla Ave,West Hollywood,1985000,2070.0,6552.0,3.1652173913043478,1,LAN,West Hollywood,R1B, ,Urban residential,True,Incorporated
+686 Webster Dr,San Jose,1390000,1392.0,6050.0,4.346264367816092,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+25631 Paul Ct,Hayward,1200000,1806.0,10148.0,5.619047619047619,0,ALA,ALA,FASP-R1-BE10,Single Family Residential,Suburban residential,True,Incorporated
+1709 El Rey Rd,San Pedro,1089000,1619.0,9162.0,5.659048795552811,0,LAN,Los Angeles,R1-1XL,RESIDENTIAL,Urban residential,True,Incorporated
+260 Mara Pl,San Ramon,1799000,1886.0,9900.0,5.249204665959703,0,CCO,San Ramon,NA, ,Other,True,Incorporated
+4637 Nagle Ave,Sherman Oaks,1699950,2107.0,6985.0,3.315140009492169,0,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+8698 Fenwick Way,Dublin,1399998,1598.0,8006.0,5.010012515644556,0,ALA,Dublin,R-1,R-1,Suburban residential,True,Incorporated
+1569 Burning Tree Dr,Thousand Oaks,899999,1372.0,6098.0,4.444606413994169,0,VEN,Thousand Oaks,RPD-2.57U-SP,RPD-2.57U-SP,Suburban residential,True,Incorporated
+1641 Rue Avati,San Jose,1349888,1205.0,6247.0,5.1842323651452284,0,SCL,San Jose,R-1-8(PD),R-1-8(PD),Suburban residential,True,Incorporated
+3723 Oak Hill Ave,Los Angeles,890000,1400.0,7533.0,5.380714285714285,0,LAN,Los Angeles,[Q]R1-1D,RESIDENTIAL,Suburban residential,True,Incorporated
+435 E Rodell Pl,Arcadia,1450000,2135.0,10522.0,4.928337236533958,1,LAN,Arcadia,R-1 (7500),R-1 (7500),Suburban residential,True,Incorporated
+5052 Glenwood Ct,Pleasanton,1698000,1560.0,7979.0,5.11474358974359,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+1318 Agnew St,Simi Valley,769900,1227.0,7840.0,6.389568052159739,0,VEN,Simi Valley,RM,RESIDENTIAL MEDIUM DENSITY,Suburban residential,True,Incorporated
+16862 Rancho Ln,Yorba Linda,1299000,1951.0,15143.0,7.761660686827268,0,ORA,Yorba Linda,RE,Residential Estate,Suburban residential,True,Incorporated
+18022 Dellglen Cir,Huntington Beach,1499888,1992.0,7200.0,3.6144578313253013,0,ORA,Huntington Beach,RL,Residential Low Density,Suburban residential,True,Incorporated
+850 Tanager Rd,Livermore,889000,1300.0,7622.0,5.863076923076923,0,ALA,Livermore,RS,Residential,Suburban residential,True,Incorporated
+16 Belfast Pl,San Ramon,1250000,1153.0,7500.0,6.5047701647875105,1,CCO,San Ramon,NA, ,Other,True,Incorporated
+8011 Church St,Gilroy,1220000,1984.0,7579.0,3.8200604838709675,0,SCL,Gilroy,R-3,R-3,Multi-family,True,Incorporated
+5310 Wilma St,Torrance,1295000,1161.0,5302.0,4.5667527993109385,0,LAN,Torrance,R1,R1,Suburban residential,True,Incorporated
+2541 W Cobblestone Rd,La Habra,1049900,1483.0,7930.0,5.347269049224545,0,ORA,La Habra,R-1c,R-1c,Suburban residential,True,Incorporated
+1002 Sheffield St,Santa Ana,949000,1143.0,7231.0,6.326334208223972,1,ORA,Santa Ana,R1,Single-Family Residence,Suburban residential,True,Incorporated
+24409 Penrose Ct,Diamond Bar,1190000,1884.0,8605.0,4.567409766454352,1,LAN,Diamond Bar,RL,Low Density Residential,Suburban residential,True,Incorporated
+6811 Jardines Dr,Huntington Beach,1250000,1464.0,5672.0,3.8743169398907105,0,ORA,Huntington Beach,RL,Residential Low Density,Suburban residential,True,Incorporated
+6901 Klondike Ave,Westminster,899999,1485.0,7210.0,4.8552188552188555,0,ORA,Westminster,R-1,R1 (Single-Family Residential) District,Suburban residential,True,Incorporated
+6614 Forbes Ave,Lake Balboa,829500,1125.0,6037.0,5.3662222222222224,1,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+101 Stowbridge Ct,Danville,1875000,2344.0,9450.0,4.0315699658703075,0,CCO,Danville,P-1 (R-10),Single Family Residential - Medium Density (3 to 5 Units per acre),Suburban residential,True,Incorporated
+2744 Gelding Ln,Livermore,1268000,1676.0,7386.0,4.406921241050119,0,ALA,Livermore,PUD 26-94,Planned Development,Planned area,True,Incorporated
+1417 Usona Dr,San Jose,1699995,1885.0,6000.0,3.183023872679045,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+27650 LA Porte Ave,Hayward,849000,1337.0,5300.0,3.9640987284966345,0,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+1849 Springsong Dr,San Jose,1549999,1903.0,6000.0,3.1529164477141354,1,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+6026 N Del Loma Ave,San Gabriel,1299999,1656.0,6939.0,4.190217391304348,0,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+482 Calero Ave,San Jose,1325000,1223.0,5974.0,4.884709730171709,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+5766 Briartree Dr,La Canada Flintridge,2099000,2453.0,15182.0,6.189156135344476,0,LAN,La Canada Flintridge,R-1-10000,R-1-10000,Suburban residential,True,Incorporated
+485 Wilaneta Ave,Fremont,2095000,1906.0,5973.0,3.133788037775446,0,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+923 Larker Ave,Los Angeles,1489000,1722.0,6545.0,3.8008130081300813,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+12691 Sweetbriar Dr,Garden Grove,1028000,1550.0,7214.0,4.654193548387097,0,ORA,Garden Grove,R-1-7,Single-Family Residential Zone,Suburban residential,True,Incorporated
+4241 Dorthea St,Yorba Linda,1490000,2173.0,11600.0,5.3382420616659,0,ORA,Yorba Linda,RE,Residential Estate,Suburban residential,True,Incorporated
+15367 Goodhue St,Whittier,749000,1062.0,6989.0,6.580979284369115,1,LAN,LAN,R-A-6000,Residential Agricultural,Suburban residential,True,Incorporated
+14510 Blossom Hill Rd,Los Gatos,2995000,2496.0,10981.0,4.399439102564102,1,SCL,Los Gatos,R1,R-1,Suburban residential,True,Incorporated
+1778 El Padro Dr,Livermore,1210000,1665.0,6000.0,3.6036036036036037,0,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+1715 Calle De Plata,San Jose,975000,1005.0,6240.0,6.208955223880597,1,SCL,San Jose,R-2(PD),R-2(PD),Urban residential,True,Incorporated
+7642 Wish Ave,Lake Balboa,875000,1073.0,7962.0,7.420316868592731,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+847 Dana Cir,Livermore,1125000,1723.0,5330.0,3.093441671503192,0,ALA,Livermore,PUDA 95-89,Planned Development,Planned area,True,Incorporated
+1960 Rheem Dr,Pleasanton,1250000,1478.0,5662.0,3.83085250338295,0,ALA,Pleasanton,PUD-MDR,Planned Unit Development - Medium Density Residential,Planned area,True,Incorporated
+1351 Scossa Ave,San Jose,1749950,1554.0,7125.0,4.584942084942085,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+4101 Tarrybrae Ter,Tarzana,1679000,2463.0,14065.0,5.710515631343889,0,LAN,Los Angeles,RA-1-H,AGRICULTURE,Suburban residential,True,Incorporated
+1206 Malone Rd,San Jose,1848800,1660.0,6534.0,3.936144578313253,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1161 Triunfo Canyon Rd,Westlake Village,1199000,1724.0,5662.0,3.2842227378190256,0,VEN,Thousand Oaks,RPD-4U,RPD-4U,Suburban residential,True,Incorporated
+7519 Owensmouth Ave,Canoga Park,750000,1059.0,8003.0,7.557129367327668,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+5103 O Sullivan Dr,Los Angeles,799000,878.0,5205.0,5.928246013667426,0,LAN,Los Angeles,[Q]R1-1D,RESIDENTIAL,Suburban residential,True,Incorporated
+35128 Cabrillo Dr,Fremont,1379999,1242.0,5800.0,4.669887278582931,0,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+1445 Raymond Ave,Glendale,1760000,1853.0,8163.0,4.405288720992984,0,LAN,Glendale,R1 I,LOW DENSITY RESIDENTIAL FAR DIST I,Urban residential,True,Incorporated
+10111 Dewey Dr,Garden Grove,1199000,1650.0,7681.0,4.655151515151515,0,ORA,Garden Grove,R-1-7,Single-Family Residential Zone,Suburban residential,True,Incorporated
+1483 Florida Ave,San Jose,750000,1040.0,5777.0,5.554807692307692,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+7933 Kenyon Ave,Los Angeles,1500000,1286.0,5636.0,4.38258164852255,1,LAN,Los Angeles,R1V2,RESIDENTIAL,Urban residential,True,Incorporated
+2474 Stokes St,San Jose,1988000,2008.0,6270.0,3.1225099601593627,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1722 Bel Aire Dr,Glendale,999000,1574.0,9338.0,5.932655654383736,1,LAN,Glendale,R1 I,LOW DENSITY RESIDENTIAL FAR DIST I,Urban residential,True,Incorporated
+5659 Valley Glen Way,Los Angeles,1020000,1100.0,9996.0,9.087272727272728,1,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+4124 Ivar Ave,Rosemead,1250000,1641.0,8057.0,4.909811090798294,1,LAN,Rosemead,002:R-2, ,Urban residential,True,Incorporated
+266 Vista Ave,San Jose,900000,1107.0,7000.0,6.323396567299007,0,SCL,SCL,R1,R1,Suburban residential,True,Incorporated
+172 Camino Sobrante,Orinda,1598000,1509.0,11050.0,7.322730284956925,0,CCO,Orinda,RL-20,RL-20,Suburban residential,True,Incorporated
+787 Macredes Ave,San Jose,899999,1354.0,5600.0,4.13589364844904,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+3975 Black Bird Way,Calabasas,895000,1131.0,5799.0,5.127320954907161,0,LAN,Calabasas,RS,RS,Suburban residential,True,Incorporated
+1105 Gardner Blvd,San Leandro,790000,1183.0,5093.0,4.305156382079459,0,ALA,San Leandro,RS,Residential Single-Family,Suburban residential,True,Incorporated
+13608 Doolittle Dr,San Leandro,799000,1146.0,8000.0,6.980802792321117,0,ALA,San Leandro,RO,Residential Outer,Suburban residential,True,Incorporated
+1244 S Leland Ave,West Covina,918000,1312.0,7556.0,5.759146341463414,1,LAN,West Covina,R-1,R-1,Suburban residential,True,Incorporated
+111 N San Tomas Aquino Rd,Campbell,1375000,1247.0,6000.0,4.811547714514836,0,SCL,Campbell,R-1-6,Single-Family Residential,Suburban residential,True,Incorporated
+3554 S Sycamore Ave,Los Angeles,1459000,1794.0,8076.0,4.501672240802676,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+343 Anna Maria St,Livermore,1200000,1683.0,6499.0,3.861556743909685,0,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+1327 Brampton Rd,Los Angeles,1298000,1560.0,10543.0,6.758333333333334,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1238 Orloff Dr,Pleasanton,1300000,1567.0,9370.0,5.979578813018507,1,ALA,Pleasanton,PUD-R-1-65,Single Family Residential-PUD,Planned area,True,Incorporated
+12009 Dresden Pl,Granada Hills,1399999,2254.0,12397.0,5.5,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+31 Junewood Ct,Danville,2098000,2389.0,9375.0,3.924236082042696,0,CCO,Danville,P-1 (R-10),Single Family Residential - Medium Density (3 to 5 Units per acre),Suburban residential,True,Incorporated
+1175 N Mentor Ave,Pasadena,950000,1143.0,9617.0,8.413823272090989,0,LAN,Pasadena,RS-6 LD-1,Single-Family Residential,Suburban residential,True,Incorporated
+4 LA Campana Rd,Orinda,2099000,2008.0,20400.0,10.159362549800797,1,CCO,Orinda,RL-20,RL-20,Suburban residential,True,Incorporated
+137 Bixby Dr,Milpitas,1399999,1462.0,6000.0,4.1039671682626535,0,SCL,Milipitas,R1-6,Single Family Residential,Urban residential,True,Incorporated
+32409 Elizabeth Way,Union City,1550000,1715.0,6060.0,3.5335276967930027,0,ALA,Union City,RS 6000,Single Family Residential,Suburban residential,True,Incorporated
+354 Glenullen Dr,Pasadena,1098000,925.0,6044.0,6.534054054054054,0,LAN,Pasadena,RS-6 HD-SR,Single-Family Residential,Suburban residential,True,Incorporated
+5 S Beatty Pl,Newbury Park,939000,1350.0,6969.0,5.162222222222222,0,VEN,Thousand Oaks,R-1,R-1,Suburban residential,True,Incorporated
+2780 Sussex Dr,San Jose,973000,1015.0,5131.0,5.055172413793104,1,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1051 Woodminster Dr,San Jose,1290000,1657.0,5150.0,3.108026554013277,0,SCL,San Jose,R-1-8(PD),R-1-8(PD),Suburban residential,True,Incorporated
+17785 Manzanita Dr,Morgan Hill,949000,1462.0,17999.0,12.311217510259917,0,SCL,Morgan Hill,"RDL 20,000","RDL 20,000",Suburban residential,True,Incorporated
+3 Gaucho Dr,Rolling Hills Estates,1995000,2254.0,12815.0,5.6854480922803905,0,LAN,Rolling Hills Estates,RLD-20, ,Suburban residential,True,Incorporated
+1815 Bucknall Rd,Campbell,1950000,2319.0,8100.0,3.4928848641655885,0,SCL,Campbell,MDR,Medium Density Residential ,Multi-family,True,Incorporated
+3558 S Muirfield Rd,Los Angeles,1575000,1920.0,6422.0,3.3447916666666666,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+30386 Rainbow View Dr,Agoura Hills,1150000,1470.0,7059.0,4.802040816326531,0,LAN,Agoura Hills,RS (5)7000,RS (5)7000,Suburban residential,True,Incorporated
+3676 Vineyard Ave,Pleasanton,1299000,1451.0,6500.0,4.479669193659545,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+17475 Santa Lucia St,Fountain Valley,1299000,1795.0,7201.0,4.011699164345404,0,ORA,Fountain Valley,R1,R1,Suburban residential,True,Incorporated
+4333 Elmer Ave,North Hollywood,1199000,1006.0,6675.0,6.635188866799205,0,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+407 N Benton Way,Los Angeles,998000,1051.0,6257.0,5.95337773549001,1,LAN,Los Angeles,RD2-1VL,RESIDENTIAL,Multi-family,True,Incorporated
+205 Juniper St,Brea,1299000,1925.0,9516.0,4.943376623376623,0,ORA,Brea,R-1,R-1,Suburban residential,True,Incorporated
+1963 Shenandoah Ave,Milpitas,1695000,1900.0,6612.0,3.48,0,SCL,Milipitas,R1-6,Single Family Residential,Urban residential,True,Incorporated
+1980 Foxworthy Ave,San Jose,998000,1560.0,5828.0,3.735897435897436,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+2024 N Kenwood St,Burbank,1350000,2143.0,6749.0,3.149323378441437,0,LAN,Burbank,(R-1) Residential Single Family,(R-1) Residential Single Family,Suburban residential,True,Incorporated
+2565 Estella Dr,Santa Clara,2798000,2449.0,9506.0,3.8815843201306657,0,SCL,Santa Clara,R1-8L,R1-8L,Suburban residential,True,Incorporated
+824 Buchser Way,San Jose,1848800,1581.0,7040.0,4.452877925363694,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+5526 Ryland Ave,Temple City,988000,1180.0,5615.0,4.758474576271187,0,LAN,Temple City,R1,R1,Suburban residential,True,Incorporated
+7252 Tyrone Ave,Van Nuys,979000,1600.0,6762.0,4.22625,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+241 Belaire Ct,Danville,1595000,2197.0,8000.0,3.6413290851160673,0,CCO,Danville,P-1 (R-10),Single Family Residential - Medium Density (3 to 5 Units per acre),Suburban residential,True,Incorporated
+1563 150th Ave,San Leandro,849000,1241.0,5510.0,4.439967767929089,1,ALA,San Leandro,RS,Residential Single-Family,Suburban residential,True,Incorporated
+13621 Erwin St,Van Nuys,1485000,1884.0,12071.0,6.4071125265392785,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+110 Santa Rosa Pl,San Ramon,1499999,2448.0,24750.0,10.110294117647058,0,CCO,San Ramon,ZM-RS-10,ZM-RS-10,Suburban residential,True,Incorporated
+5532 Purdue Pl,San Jose,1988000,1919.0,6500.0,3.3871808233454925,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1265 N Harvard Blvd,Los Angeles,1000000,1488.0,6503.0,4.370295698924731,0,LAN,Los Angeles,RD1.5-1XL,RESIDENTIAL,Multi-family,True,Incorporated
+168 Park Dartmouth Pl,San Jose,1560000,2084.0,6760.0,3.2437619961612283,0,SCL,San Jose,R-1-8(PD),R-1-8(PD),Suburban residential,True,Incorporated
+3932 Hill St,Huntington Park,750000,942.0,6378.0,6.770700636942675,0,LAN,Huntington Park,R-L, ,Urban residential,True,Incorporated
+4201 Don Diablo Dr,Los Angeles,1459000,1640.0,8105.0,4.942073170731708,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+519 Longwood Ct,Hayward,925000,1511.0,9991.0,6.6121773659827925,1,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+2911 Walker Lee Dr,Rossmoor,1799000,2254.0,8010.0,3.5536823425022184,0,ORA,ORA,R1/28 (C3849),Single-Family Residence,Suburban residential,True,Incorporated
+181 N Monterey Rd,Orange,1895000,2237.0,8250.0,3.6879749664729546,0,ORA,Orange,R-1-6,Single Family Res. 6000 sq ft,Suburban residential,True,Incorporated
+2252 Verde Oak Dr,Los Angeles,1547000,1552.0,9635.0,6.208118556701031,0,LAN,Los Angeles,RE11-1D,RESIDENTIAL,Suburban residential,True,Incorporated
+342 Clarke Ave,Livermore,997888,1515.0,6000.0,3.9603960396039604,0,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+3113 Maple Ave,Fullerton,898000,1288.0,7245.0,5.625,0,ORA,Fullerton,R172,"R-1-7.2 One-Family Residential (7,200 SF min. lot size)",Suburban residential,True,Incorporated
+2717 E Meadowlark Dr,Union City,1320000,1392.0,7086.0,5.0905172413793105,1,ALA,Union City,RS 6000,Single Family Residential,Suburban residential,True,Incorporated
+2147 Pattiz Ave,Long Beach,1295000,2082.0,9100.0,4.370797310278578,1,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+888 Laguna St,Livermore,1849000,2341.0,7135.0,3.047842802221273,1,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+36302 Frobisher Dr,Fremont,1464888,1654.0,8459.0,5.114268440145103,1,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+17642 Calvert St,Encino,1349900,1611.0,5902.0,3.6635630043451273,0,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+156 Dogwood Pl,San Ramon,830000,1165.0,5400.0,4.635193133047211,0,CCO,San Ramon,ZM-RS-6,ZM-RS-6,Suburban residential,True,Incorporated
+20162 S New Britain Ln,Huntington Beach,1825000,1978.0,7062.0,3.570273003033367,0,ORA,Huntington Beach,RL,Residential Low Density,Suburban residential,True,Incorporated
+22317 Madison St,Torrance,1455000,1618.0,5002.0,3.091470951792336,0,LAN,Torrance,R1,R1,Suburban residential,True,Incorporated
+3204 N Beachwood Dr,Los Angeles,2195000,2256.0,11238.0,4.9813829787234045,0,LAN,Los Angeles,RE9-1,RESIDENTIAL,Suburban residential,True,Incorporated
+1376 Vintner Way,Pleasanton,1489000,1584.0,6818.0,4.304292929292929,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+860 N 19th St,San Jose,1490000,1559.0,12776.0,8.194996792815907,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1105 Fairview Dr,La Canada Flintridge,2495000,2487.0,9126.0,3.669481302774427,0,LAN,La Canada Flintridge,R-1-10000,R-1-10000,Suburban residential,True,Incorporated
+15129 Fonthill Ave,Lawndale,825000,1081.0,5252.0,4.858464384828862,0,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+168 Albatross Ave,Livermore,950000,1155.0,6050.0,5.238095238095238,0,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+510 Hargrave St,Inglewood,1100000,1228.0,7509.0,6.114820846905538,1,LAN,Inglewood,R-2A,RES LIMITED MULTI FAMILY,Multi-family,True,Incorporated
+8129 Radford Ave,North Hollywood,1500000,2230.0,6794.0,3.0466367713004483,1,LAN,Los Angeles,R1-1-CUGU,RESIDENTIAL,Urban residential,True,Incorporated
+2611 Quail Ct,Union City,1350000,1392.0,6840.0,4.913793103448276,0,ALA,Union City,RS 6000,Single Family Residential,Suburban residential,True,Incorporated
+5953 Bellflower Dr,Newark,1599888,1560.0,7245.0,4.644230769230769,0,ALA,Newark,R-7000,Low Density Residential - 7000 District,Suburban residential,True,Incorporated
+13929 Highlander Rd,La Mirada,1520000,2464.0,7412.0,3.008116883116883,0,LAN,La Mirada,PUD, ,Suburban residential,True,Incorporated
+2798 Redwing Cir,Costa Mesa,2295000,2301.0,9100.0,3.9548022598870056,0,ORA,Costa Mesa,R1,R1,Suburban residential,True,Incorporated
+26584 Underwood Ave,Hayward,888000,1158.0,5130.0,4.430051813471502,1,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+17277 Via Alamitos,San Lorenzo,775000,1211.0,5292.0,4.369942196531792,0,ALA,ALA,R1,Single Family Residential,Suburban residential,True,Incorporated
+3801 Sutro Ave,Los Angeles,1099000,1530.0,5409.0,3.5352941176470587,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1563 Dorcey Ln,San Jose,2198000,1900.0,8250.0,4.342105263157895,0,SCL,San Jose,A(PD),A(PD),Planned area,True,Incorporated
+1875 Willow Ave,San Leandro,999800,1576.0,8260.0,5.241116751269035,0,ALA,San Leandro,RS,Residential Single-Family,Suburban residential,True,Incorporated
+7771 12th St,Westminster,1248888,1465.0,8100.0,5.5290102389078495,1,ORA,Westminster,R-4,R4 (Multiple-Family Residential 15 to 18 Units/Acre) District,Multi-family,True,Incorporated
+1504 N Lima St,Burbank,1200000,1385.0,6922.0,4.9978339350180505,0,LAN,Burbank,(R-1) Residential Single Family,(R-1) Residential Single Family,Suburban residential,True,Incorporated
+1429 Columbus Ave,Livermore,1186000,1445.0,6031.0,4.173702422145329,0,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+17602 Norwalk Blvd,Artesia,899000,1308.0,5266.0,4.025993883792049,0,LAN,Artesia,R-1, ,Suburban residential,True,Incorporated
+1 Vista Del Moraga,Orinda,1245000,1450.0,13939.0,9.613103448275861,0,CCO,Orinda,RL-20,RL-20,Suburban residential,True,Incorporated
+12947 Arabella Pl,Cerritos,1229000,1789.0,5569.0,3.112912241475685,0,LAN,Cerritos,RS-5000,Single-Family Residential,Suburban residential,True,Incorporated
+1615 Fox Springs Cir,Thousand Oaks,1099000,1823.0,6359.0,3.4882062534284146,0,VEN,Thousand Oaks,RPD-0.76U-OS,RPD-0.76U-OS,Suburban residential,True,Incorporated
+865 Old Canyon Rd,Fremont,1149000,1006.0,8526.0,8.475149105367793,0,ALA,Fremont,R-1-6(H-I),R-1-6(H-I),Suburban residential,True,Incorporated
+1271 Camino Tassajara,Danville,1599000,1595.0,9375.0,5.877742946708464,0,CCO,Danville,R-10,Single Family Residential - Medium Density (3 to 5 Units per acre),Suburban residential,True,Incorporated
+11356 Stonecress Ave,Fountain Valley,1595000,1820.0,6500.0,3.5714285714285716,0,ORA,Fountain Valley,R1,R1,Suburban residential,True,Incorporated
+6175 Oneida Dr,San Jose,1388888,1409.0,6018.0,4.27111426543648,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+206 N Hobart Blvd,Los Angeles,1288000,1740.0,6585.0,3.7844827586206895,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+5313 W Ballast Ave,Santa Ana,1059990,1396.0,6039.0,4.3259312320916905,0,ORA,Santa Ana,R1,Single-Family Residence,Suburban residential,True,Incorporated
+11125 Glenoaks Blvd,Pacoima,1300000,1282.0,7542.0,5.8829953198127924,0,LAN,Los Angeles,R1-1-CUGU,RESIDENTIAL,Urban residential,True,Incorporated
+14235 Greenleaf St,Sherman Oaks,2495000,2327.0,10758.0,4.623119896862914,0,LAN,Los Angeles,RE11-1,RESIDENTIAL,Suburban residential,True,Incorporated
+20548 Stagg St,Winnetka,999000,1462.0,9543.0,6.527359781121751,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+4996 Eberly Dr,San Jose,1800000,2279.0,13340.0,5.853444493198771,1,SCL,San Jose,R-1-5,R-1-5,Suburban residential,True,Incorporated
+300 C St,Fillmore,1130000,1600.0,11325.0,7.078125,0,VEN,Fillmore,R-L,R-L,Suburban residential,True,Incorporated
+4000 Barryknoll Dr,Los Angeles,1299000,1655.0,7374.0,4.455589123867069,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+5141 Don Pio Dr,Woodland Hills,1450000,1681.0,5872.0,3.4931588340273647,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+2944 Mayfield Ave,La Crescenta,1000000,1089.0,5843.0,5.365472910927457,1,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+2211 Arrowhead Dr,Oakland,849000,1363.0,9316.0,6.83492296404989,0,ALA,Oakland,RH-3,RH-3,Suburban residential,True,Incorporated
+6307 Hematite Ct,San Jose,2288000,2246.0,8550.0,3.806767586821015,0,SCL,San Jose,A(PD),A(PD),Planned area,True,Incorporated
+1798 Walnut Grove Ave,San Jose,1299000,1261.0,6700.0,5.313243457573354,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+11781 Lamplighter St,Garden Grove,1098000,1119.0,6200.0,5.540661304736372,0,ORA,Garden Grove,R-1-6,Single-Family Residential Zone,Suburban residential,True,Incorporated
+1107 N 4th St,San Jose,1219000,1140.0,6850.0,6.008771929824562,1,SCL,San Jose,R-2,R-2,Urban residential,True,Incorporated
+350 Elysian Fields Dr,Oakland,1379000,2210.0,12369.0,5.59683257918552,0,ALA,Oakland,RH-3,RH-3,Suburban residential,True,Incorporated
+9009 Bluford Ave,Whittier,839900,1396.0,6064.0,4.343839541547278,1,LAN,Whittier,R-1,SINGLE FAMILY RESIDENTIAL,Suburban residential,True,Incorporated
+170 S Barbara Way,Anaheim,925000,1485.0,7347.0,4.947474747474748,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+18257 Palora St,Tarzana,1299950,1423.0,5616.0,3.9465917076598735,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+7418 Amigo Ave,Reseda,799990,1293.0,6252.0,4.835266821345708,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+12952 Aetna St,Valley Glen,1175000,1810.0,6058.0,3.3469613259668507,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1170 Cotter Way,Hayward,888000,1234.0,7400.0,5.996758508914101,1,ALA,Hayward,RS,Single Family Residential - Min. Lot Size - 5000 Sq Ft,Urban residential,True,Incorporated
+1172 Pine St,Livermore,979000,1383.0,6000.0,4.3383947939262475,1,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+2508 El Paseo,Alhambra,849999,1156.0,6273.0,5.426470588235294,1,LAN,Alhambra,R-1,R-1,Suburban residential,True,Incorporated
+6256 Hokett Way,San Jose,1339000,1409.0,6206.0,4.404542228530873,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+3877 Santa Clara Way,Livermore,985500,1485.0,5900.0,3.973063973063973,0,ALA,Livermore,RL,Residential,Suburban residential,True,Incorporated
+13024 Weddington St,Sherman Oaks,1499000,1606.0,8607.0,5.359277708592777,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+5629 Morton Way,San Jose,1458000,1852.0,6283.0,3.392548596112311,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+4244 Milton Way,Livermore,1498000,2210.0,9217.0,4.170588235294118,0,ALA,Livermore,PUD 49-89,Planned Development,Planned area,True,Incorporated
+526 California St,El Segundo,1399000,1588.0,6389.0,4.023299748110831,0,LAN,El Segundo,R-1,Single-Family Residential,Suburban residential,True,Incorporated
+4941 Rigoletto St,Woodland Hills,1685000,2009.0,9038.0,4.498755599800896,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+4751 Lincoln Ave,Oakland,825000,1174.0,8855.0,7.542589437819421,0,ALA,Oakland,RH-4,RH-4,Suburban residential,True,Incorporated
+812 Chico Dr,San Leandro,818000,1267.0,5035.0,3.973954222573007,0,ALA,San Leandro,RS,Residential Single-Family,Suburban residential,True,Incorporated
+13358 Blythe St,North Hollywood,989000,1636.0,7678.0,4.693154034229829,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+4545 Allott Ave,Sherman Oaks,1795000,1790.0,7776.0,4.34413407821229,1,LAN,Los Angeles,R1-1-RIO,RESIDENTIAL,Urban residential,True,Incorporated
+8516 Callita St,San Gabriel,1225000,1276.0,5027.0,3.939655172413793,0,LAN,LAN,R-1,Single-Family Residence,Suburban residential,True,Incorporated
+2050 Donald Dr,Moraga,1398800,1620.0,16553.0,10.2179012345679,0,CCO,Moraga,6-DUA,6-DUA,Suburban residential,True,Incorporated
+1489 Burrell Ct,San Jose,1250000,1660.0,5104.0,3.0746987951807228,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+4525 Entrada Ct,Pleasanton,1695000,1690.0,8131.0,4.811242603550296,0,ALA,Pleasanton,R-1-65,Single Family Residential,Suburban residential,True,Incorporated
+3758 Alzada Rd,Altadena,1450000,1582.0,12336.0,7.797724399494311,0,LAN,LAN,R-1-10000,Single-Family Residence,Suburban residential,True,Incorporated
+4251 Nicolet Ave,Fremont,1980000,2160.0,8265.0,3.826388888888889,1,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+12041 Hartsook St,Valley Village,1150000,1063.0,7802.0,7.3396048918156165,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+6620 Brennan Ave,West Hills,1126000,1570.0,7434.0,4.735031847133758,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+410 W Spazier Ave,Burbank,1399000,1241.0,6962.0,5.609991941982273,0,LAN,Burbank,(R-1-H) Residential Single Family Horse,(R-1-H) Residential Single Family Horse,Suburban residential,True,Incorporated
+3480 Mandeville Canyon Rd,Los Angeles,1995000,1846.0,7963.0,4.3136511375948,0,LAN,Los Angeles,RE15-1-H,RESIDENTIAL,Suburban residential,True,Incorporated
+30718 Knight Ct,Union City,1749000,2200.0,7225.0,3.284090909090909,0,ALA,Union City,RS 4500,Single Family Residential,Urban residential,True,Incorporated
+2317 Trotter Way,Walnut Creek,1799000,1956.0,10769.0,5.50562372188139,0,CCO,Walnut Creek,PD,PD,Planned area,True,Incorporated
+17673 Dorson Ln,Castro Valley,800000,1234.0,6540.0,5.299837925445705,0,ALA,ALA,R1-BE-CSU-RV-HO,Single Family Residential,Suburban residential,True,Incorporated
+4428 Doane St,Fremont,1499000,1441.0,5985.0,4.153365718251214,0,ALA,Fremont,R-1-6,R-1-6,Suburban residential,True,Incorporated
+831 N Myers St,Burbank,1275000,1603.0,6824.0,4.257018091079226,1,LAN,Burbank,(R-1) Residential Single Family,(R-1) Residential Single Family,Suburban residential,True,Incorporated
+1641 Trafalgar Pl,Westlake Village,1450000,1879.0,6899.0,3.6716338477913784,0,VEN,Thousand Oaks,RPD-4.5U,RPD-4.5U,Suburban residential,True,Incorporated
+14033 Oval Dr,Whittier,825000,1283.0,5952.0,4.639127045985971,0,LAN,LAN,R-A-6000,Residential Agricultural,Suburban residential,True,Incorporated
+10613 Woodstead Ave,Whittier,799000,1080.0,5913.0,5.475,0,LAN,Whittier,R-1,SINGLE FAMILY RESIDENTIAL,Suburban residential,True,Incorporated
+1253 139th Ave,San Leandro,746000,1090.0,5150.0,4.724770642201835,0,ALA,San Leandro,RS,Residential Single-Family,Suburban residential,True,Incorporated
+517 Van Buren Pl,San Ramon,999000,1103.0,7200.0,6.527651858567543,1,CCO,San Ramon,ZM-RS-7,ZM-RS-7,Suburban residential,True,Incorporated
+17801 Lanark St,Reseda,999000,1542.0,6002.0,3.8923476005188067,1,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+11121 Kensington Rd,Los Alamitos,1595000,2283.0,8160.0,3.574244415243101,0,ORA,ORA,R1/28 (C3849),Single-Family Residence,Suburban residential,True,Incorporated
+1903 S Primrose Ave,Alhambra,1280000,1784.0,6395.0,3.5846412556053813,0,LAN,Alhambra,R-1,R-1,Suburban residential,True,Incorporated
+10133 Whitaker Ave,Granada Hills,1249900,1875.0,7991.0,4.261866666666666,0,LAN,Los Angeles,RS-1,RESIDENTIAL,Suburban residential,True,Incorporated
+10205 Fairgrove Ave,Tujunga,1400000,1843.0,6420.0,3.483450895279436,1,LAN,Los Angeles,R1-1-RFA,RESIDENTIAL,Urban residential,True,Incorporated
+2522 Lambert Ln,San Jose,2448000,2396.0,7700.0,3.2136894824707847,0,SCL,San Jose,R-1-8,R-1-8,Suburban residential,True,Incorporated
+1944 W Lullaby Ln,Anaheim,1249900,2008.0,7300.0,3.635458167330677,0,ORA,Anaheim,RS-2,RS-2,Suburban residential,True,Incorporated
+2016 W Oak St,Burbank,995000,910.0,6067.0,6.667032967032967,0,LAN,Burbank,(R-1) Residential Single Family,(R-1) Residential Single Family,Suburban residential,True,Incorporated
+15841 Marlin Pl,Van Nuys,890000,1134.0,7257.0,6.3994708994708995,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+1133 Tokay Cmn,Livermore,1469000,2050.0,8621.0,4.205365853658536,0,ALA,Livermore,RS,Residential,Suburban residential,True,Incorporated
+14821 S Denver Ave,Gardena,810000,1248.0,5674.0,4.546474358974359,0,LAN,Los Angeles,R1-1,RESIDENTIAL,Urban residential,True,Incorporated
+2013 Charlemagne Ave,Long Beach,919000,891.0,5838.0,6.552188552188552,0,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
+3109 Robinette Ave,Baldwin Park,855000,1252.0,5125.0,4.093450479233227,1,LAN,Baldwin Park,R1,R1,Suburban residential,True,Incorporated
+24905 Skyland Rd,Los Gatos,1050000,1648.0,27181.0,16.493325242718445,0,SCR,SCR,RA,Residential Agricultural,Rural residential,True,Incorporated
+14621 Chalet Ln,Huntington Beach,1439000,1890.0,6000.0,3.1746031746031744,0,ORA,Huntington Beach,RL,Residential Low Density,Suburban residential,True,Incorporated
+1925 Vallecito Dr,San Pedro,1280000,1304.0,7321.0,5.6142638036809815,0,LAN,Los Angeles,R1-1XL,RESIDENTIAL,Urban residential,True,Incorporated
+1937 Pattiz Ave,Long Beach,1298000,1382.0,5535.0,4.00506512301013,0,LAN,Long Beach,R-1-N,R-1-N,Suburban residential,True,Incorporated
