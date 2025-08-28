@@ -25,7 +25,7 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative bg-[#F5E6D3] py-20 px-4 overflow-hidden">
-        <div className="absolute top-6 right-6 z-20">
+        <div className="absolute top-6 right-12 z-20">
           <LanguageSwitcher currentLanguage={currentLanguage} onLanguageChange={setCurrentLanguage} />
         </div>
 

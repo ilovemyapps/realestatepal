@@ -26,14 +26,14 @@ export function LanguageSwitcher({ currentLanguage, onLanguageChange }: Language
         onClick={() => setIsOpen(!isOpen)}
         variant="outline"
         size="lg"
-        className="bg-white/90 backdrop-blur-sm border-[#8B7355]/20 hover:bg-white hover:border-[#CC6B3D] text-[#4A3728] font-semibold px-6 py-3 text-lg shadow-sm"
+        className="bg-white/90 backdrop-blur-sm border-[#8B7355]/20 hover:bg-white hover:border-[#CC6B3D] text-[#4A3728] font-semibold px-8 py-4 text-xl shadow-sm"
       >
-        <Globe className="w-5 h-5 mr-2" />
+        <Globe className="w-6 h-6 mr-3" />
         {currentLang.name}
       </Button>
 
       {isOpen && (
-        <div className="absolute top-full mt-2 right-0 bg-white rounded-lg shadow-lg border border-[#8B7355]/20 overflow-hidden z-50 min-w-[160px]">
+        <div className="absolute top-full mt-2 right-0 bg-white rounded-lg shadow-lg border border-[#8B7355]/20 overflow-hidden z-50 min-w-[192px]">
           {languages.map((language) => (
             <button
               key={language.code}
@@ -41,7 +41,7 @@ export function LanguageSwitcher({ currentLanguage, onLanguageChange }: Language
                 onLanguageChange(language.code)
                 setIsOpen(false)
               }}
-              className={`w-full px-4 py-3 text-left hover:bg-[#F5E6D3] transition-colors ${
+              className={`w-full px-5 py-4 text-left text-lg hover:bg-[#F5E6D3] transition-colors ${
                 currentLanguage === language.code ? "bg-[#F5E6D3] text-[#CC6B3D] font-semibold" : "text-[#4A3728]"
               }`}
             >
